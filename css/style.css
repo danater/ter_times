@@ -3,8 +3,7 @@ body {
 }
 
 .head-story {
-        padding-top: 50px;
-        padding-right: 50px;     
+        padding-top: 35px;
 }
 
 .head-story img {
@@ -43,7 +42,7 @@ div.list-story {
 .list-story img {
         height: 100%;
         width: 100%;
-        max-width:150px;
+        max-width:75px;
         max-height:100%;
         overflow:hidden;
 }
@@ -89,6 +88,9 @@ h1.headline a:hover {
 
 h5.headline {
       font-weight: bold;  
+      font-size: 16px;
+      margin-bottom:5px;
+      text-align: left;
 }
 
 h5.headline a {
@@ -103,17 +105,20 @@ h5.headline a:hover {
 
 p.weather {
         text-align: right;
+        margin-bottom: 5px;
 }
 
 p.date-writer {
         font-size: 10px;
+        text-align: left;
 }
 
 #navlist li {
         display: inline;
         list-style: none;
-        padding-right: 25px;
-        padding-bottom: 25px;
+        padding-right: 15px;
+        font-weight: bold;
+        padding-bottom: 15px;
         text-decoration: none;
         font-size: 24px; 
 }
@@ -122,11 +127,91 @@ p.date-writer {
         text-decoration: none; 
 }
 
+.home {
+        color: #999999;
+}
+
+.home:hover {
+        color: #79B473;
+}
+
+.home-story {
+        color: #79B473;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom:5px;
+        text-align: left;
+}
+
+.arts {
+        color: #999999;
+}
+
+.arts:hover {
+        color: #FFB997;
+}
+
+.arts-story {
+        color: #FFB997;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom:5px;
+        text-align: left;
+}
+
+.style {
+        color: #999999;
+}
+
+.style:hover {
+        color: #D65B96;
+}
+
+.style-story {
+        color: #D65B96;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom:5px;
+        text-align: left;
+}
+
+.travel {
+        color: #999999;
+}
+
+.travel-story {
+        color: #C97064;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom:5px;
+        text-align: left;
+}
+
+.travel:hover {
+        color: #C97064;
+}
+
+.food {
+        color: #999999;
+}
+
+.food-story {
+        color: #7893B6;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom:5px;
+        text-align: left;
+}
+
+.food:hover {
+        color: #7893B6;
+}
+
 div.underline {
         border-top-style: solid;
         border-top-width: 2px;
         border-top-color: #000000;
-        padding-bottom: 20px;
+        padding-bottom: 5px;
 }
 
 .center {
@@ -134,7 +219,11 @@ div.underline {
 }
 
 h1.huge {
-        font-size: 74px;
+        font-size: 44px;
         font-weight: bold;
+}
+
+div.bottom {
+        padding-top: 75px;
 }
 
