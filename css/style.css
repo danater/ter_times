@@ -1,0 +1,100 @@
+body {
+	
+}
+
+.head-story {
+        padding-top: 50px;
+        padding-right: 50px;     
+}
+
+.head-story img {
+        height: 100%;
+        width: 100%;
+        max-width:100%;
+        max-height:100%;
+        overflow:hidden;
+}
+
+span {
+        padding-right: 50px;
+        padding-bottom: 50px;
+}
+
+span a {
+        color: #000000;
+        text-decoration: none;
+}
+
+span a:hover {
+        text-decoration: underline;
+        color: #000000;
+}
+
+div.list {
+        padding-top: 50px;
+}
+
+div.story {
+        border-top-style: solid;
+        border-top-width: 1px;
+        border-top-color: #000000;
+        margin-top: 25px;
+        padding-bottom: 25px;
+}
+
+
+h5.list-headline {
+        font-weight: bold;
+}
+
+h1.headline {
+      font-weight: bold;  
+}
+
+h1.headline a {
+        color: #000000;
+        text-decoration: none;
+}
+
+h1.headline a:hover {
+        color: #000000;
+        text-decoration: underline;
+}
+
+p.weather {
+        padding-top: 150px;
+}
+
+p.date-writer {
+        font-size: 10px;
+}
+
+#navlist li {
+        display: inline;
+        list-style: none;
+        padding-right: 25px;
+        padding-bottom: 25px;
+        text-decoration: none;
+        font-size: 24px; 
+}
+
+#navlist li a {
+        text-decoration: none; 
+}
+
+div.underline {
+        border-top-style: solid;
+        border-top-width: 2px;
+        border-top-color: #000000;
+        padding-bottom: 20px;
+}
+
+.center {
+        text-align: center;
+}
+
+h1.huge {
+        font-size: 74px;
+        font-weight: bold;
+}
+

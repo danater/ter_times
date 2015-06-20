@@ -1,0 +1,44 @@
+var portfolioApp = angular.module('portfolioApp', [
+  'ngRoute', 'portfolioControllers'
+]);
+
+//LOCAL
+portfolioApp.config(['$routeProvider',
+  function($routeProvider) {
+    $routeProvider.
+      when('/', {
+        templateUrl: '/js/angular/partials/name.html',
+        controller: 'NameCtrl'
+      }).
+      when('/portfolio', {
+        templateUrl: '/js/angular/partials/portfolio_list.html',
+        controller: 'PortfolioListCtrl'
+      }).
+      when('/about', {
+        templateUrl: '/js/angular/partials/about.html',
+        controller: 'AboutCtrl'
+      }).
+      otherwise({
+        redirectTo: '/'
+      });
+  }]);
+
+//GITHUB
+/*
+portfolioApp.config(['$routeProvider',
+  function($routeProvider) {
+    $routeProvider.
+      when('/portfolio', {
+        templateUrl: '/dana_ter/js/angular/partials/portfolio_list.html',
+        controller: 'PortfolioListCtrl'
+      }).
+      when('/portfolio/:title', {
+        templateUrl: '/dana_ter/js/angular/partials/portfolio_list.html',
+        controller: 'PortfolioViewCtrl'
+      }).
+      otherwise({
+        redirectTo: '/portfolio'
+      });
+  }]);
+
+  */
