@@ -7,7 +7,7 @@ portfolioApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
       when('/', {
-        templateUrl: '/ter_times/js/angular/partials/home.html',
+        templateUrl: '/js/angular/partials/home.html',
         controller: 'HomeCtrl'
       }).
       otherwise({
