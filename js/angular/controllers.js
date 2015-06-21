@@ -1,31 +1,20 @@
 var portfolioControllers = angular.module('portfolioControllers', []);
 
-portfolioControllers.controller('PortfolioListCtrl', ['$scope', '$http',
+portfolioControllers.controller('HomeCtrl', ['$scope', '$http',
   function ($scope, $http) {
 
-    $scope.publisher = '';
-    $scope.category = '';
-
-    $scope.getMyCtrlScope = function() {
-      return $scope;   
-    }
+    $scope.limit = 6;
 
     $http.get('js/angular/articles/articles.json').success(function(data) {
-      $scope.articles = data;
-      $scope.chunkedData = chunk($scope.articles, 4);
-      $scope.publishers = [];
-      $scope.categories = [];
-      for (var i = 0; i < $scope.articles.length; i++) {
-        if($scope.publishers.indexOf($scope.articles[i].publisher)) {
-          if($scope.publisher == '') {
-            $scope.publisher = $scope.articles[i].publisher;
-          }
-          $scope.publishers.push($scope.articles[i].publisher);
-        }
-        if($scope.categories.indexOf($scope.articles[i].category)) {
-          $scope.categories.push($scope.articles[i].category);
+      $scope.allArticles = data;
+      $scope.articles = $scope.allArticles;
+      $scope.trending = [];
+      for (var i = $scope.articles.length - 1; i >= 0; i--) {
+        if($scope.articles[i].trending == true) {
+          $scope.trending.push($scope.articles[i]);
         }
       };
+      slice($scope.limit);
     });
 
     function chunk(arr, size) {
@@ -36,42 +25,60 @@ portfolioControllers.controller('PortfolioListCtrl', ['$scope', '$http',
       return newArr;
     }
 
-    $scope.clearFilter = function() {
-      $scope.category = '';
+    function slice(limit) {
+      $scope.slicedArticles = $scope.articles.slice(0, limit);
+      $scope.chunkedData = chunk($scope.slicedArticles, 2);
     }
 
-    $scope.isSelectedCat = function(c) {
-      if($scope.category == c) {
-        return true;
+    $scope.loadMore = function() {
+      console.log('run');
+      $scope.limit = $scope.limit + 4;
+      slice($scope.limit);
+    }
+
+    $scope.filter = function(type) {
+      switch(type) {
+        case 1:
+          $scope.articles = $scope.allArticles;
+          $scope.limit = 6;
+          slice($scope.limit);
+          break;
+        case 2:
+          $scope.articles = filterArticles('Arts');
+          $scope.limit = 6;
+          slice($scope.limit);
+          break;
+        case 3:
+          $scope.articles = filterArticles('Style');
+          $scope.limit = 6;
+          slice($scope.limit);
+          break;
+        case 4:
+          $scope.articles = filterArticles('Travel');
+          $scope.limit = 6;
+          slice($scope.limit);
+          break;
+        case 5:
+          $scope.articles = filterArticles('Food');
+          $scope.limit = 6;
+          slice($scope.limit);
+          break;
+        default:
+          $scope.articles = $scope.allArticles;
+          $scope.limit = 6;
+          slice($scope.limit);
       }
     }
 
-    $scope.isSelectedPub = function(p) {
-      if($scope.publisher == p) {
-        return true;
-      }
+    filterArticles = function(category) {
+      temp = [];
+      for (var i = $scope.allArticles.length - 1; i >= 0; i--) {
+        if($scope.allArticles[i].category == category) {
+          temp.push($scope.allArticles[i]);
+        }
+      };
+
+      return temp;
     }
-
-    $scope.isNoneSelected = function() {
-      if($scope.category == '') {
-        return true;
-      }
-    }
-
-    
-  
-}]);
-
-portfolioControllers.controller('AboutCtrl', ['$scope', '$routeParams', '$http',
-  function ($scope, $routeParams, $http) {
-    
-    $scope.article = $routeParams.article;
-  
-}]);
-
-portfolioControllers.controller('NameCtrl', ['$scope', '$routeParams', '$http',
-  function ($scope, $routeParams, $http) {
-    
-    $scope.article = $routeParams.article;
   
 }]);

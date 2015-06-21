@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
-<html lang="en">
+<html lang="en" ng-app="portfolioApp">
 <head>
     <title>Ter Times</title>
 
@@ -12,14 +12,13 @@
 
     <script src="js/script.js"></script>
 
-    <!-- script src="js/angular/angular.min.js"></script>
     <script src="js/angular/angular.min.js"></script>
     <script src="js/angular/angular-route.min.js"></script>
     <script src="js/angular/app.js"></script>
-    <script src="js/angular/controllers.js"></script -->
+    <script src="js/angular/controllers.js"></script>
   
 </head>
-<body>
+<body ng-controller="HomeCtrl">
   <div class="container">
     <div class="row">
       <div class="nine columns">
@@ -33,11 +32,11 @@
     <div class="row">
       <div class="twelve columns">
         <ul id="navlist">
-          <li><a class="home" href="">Home</a></li>
-          <li><a class="arts" href="">Arts</a></li>
-          <li><a class="style" href="">Style</a></li>
-          <li><a class="travel" href="">Travel</a></li>
-          <li><a class="food" href="">Food</a></li>
+          <li><a class="home" href="" ng-click='filter(1)'>Home</a></li>
+          <li><a class="arts" href="" ng-click='filter(2)'>Arts</a></li>
+          <li><a class="style" href="" ng-click='filter(3)'>Style</a></li>
+          <li><a class="travel" href="" ng-click='filter(4)'>Travel</a></li>
+          <li><a class="food" href="" ng-click='filter(5)'>Food</a></li>
         </ul>
       </div>
     </div>
@@ -45,7 +44,7 @@
       <div class="eight columns">
         <div class="row">
           <div class="twelve columns head-story">
-            <a href=""><img src="http://static.wixstatic.com/media/ab7449_f798d4b2471047f9a0a827e957e7fa22.jpg_srz_p_796_515_75_22_0.50_1.20_0.00_jpg_srz"></a>
+            <a href="/Dana.html"><img src="http://static.wixstatic.com/media/ab7449_f798d4b2471047f9a0a827e957e7fa22.jpg_srz_p_796_515_75_22_0.50_1.20_0.00_jpg_srz"></a>
 
           <div class="row">
             <div class="twelve columns">
@@ -55,83 +54,37 @@
           
             <div class="row">
             <div class="twelve columns">
-              <h1 class="headline"><a href="">Who is Dana Ter?</a></h1>
+              <h1 class="headline"><a href="/Dana.html">Who is Dana Ter?</a></h1>
             </div>
           </div>
 
             <p class="date-writer">2015-02-25, By Dana Ter</p>
           </div>
         </div>
-        <div class="row">
-          <div class="six columns story">
-            <a href=""><img src="http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg"></a>
+
+        <div ng-repeat="rows in chunkedData" class="row">
+          <div ng-repeat="article in rows" class="six columns story">
+            <a href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
 
             <div class="row">
               <div class="twelve columns">
-                <p class="travel-story">Travel</p>
+                <p class="{{ article.category_style }}">{{ article.category }}</p>
               </div>
             </div>
 
             <div class="row">
               <div class="twelve columns">
-                <h1 class="headline"><a href="">Three-day hustle in Ho Chi Minh City</a></h1>
+                <h1 class="headline"><a href="{{ article.link }}">{{ article.title }}</a></h1>
               </div>
             </div>
 
-            <p class="date-writer">2015-02-25, By Dana Ter</p>
-          </div>
-          <div class="six columns story">
-            <a href=""><img src="http://www.taipeitimes.com/images/2015/06/20/p12-150620-p4r.jpg"></a>
+            <p class="date-writer">{{ article.published }}, By {{ article.author }}</p>
 
-            <div class="row">
-              <div class="twelve columns">
-                <p class="food-story">Food</p>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="twelve columns">
-                <h1 class="headline"><a href="">Dining on the Tamsui River in a Mississippi boat</a></h1>
-              </div>
-            </div>
-
-            <p class="date-writer">2015-02-25, By Dana Ter</p>
           </div>
         </div>
         <div class="row">
-          <div class="six columns story">
-            <a href=""><img src="http://static.wixstatic.com/media/ab7449_f798d4b2471047f9a0a827e957e7fa22.jpg_srz_p_796_515_75_22_0.50_1.20_0.00_jpg_srz"></a>
-
-            <div class="row">
-              <div class="twelve columns">
-                <p class="arts-story">Arts</p>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="twelve columns">
-                <h1 class="headline"><a href="">Millet Wine with the Aborigines of Taiwan - Roads & Kingdoms</a></h1>
-              </div>
-            </div>
-
-            <p class="date-writer">2015-02-25, By Dana Ter</p>
-          </div>
-          <div class="six columns story">
-            <a href=""><img src="http://static.wixstatic.com/media/ab7449_f798d4b2471047f9a0a827e957e7fa22.jpg_srz_p_796_515_75_22_0.50_1.20_0.00_jpg_srz"></a>
-
-            <div class="row">
-              <div class="twelve columns">
-                <p class="style-story">Style</p>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="twelve columns">
-                <h1 class="headline"><a href="">Millet Wine with the Aborigines of Taiwan - Roads & Kingdoms</a></h1>
-              </div>
-            </div>
-            
-            <p class="date-writer">2015-02-25, By Dana Ter</p>
+          <div class="twelve columns center">
+            <h4 class="headline"><a ng-href="" ng-click='loadMore()' >More stories</a></h4>
           </div>
         </div>
       </div>
@@ -139,61 +92,22 @@
         <div class="row">
           <div class="twelve columns list center">
             <h4 class="list-headline">Trending</h4>
-            <div class="list-story">
+            <div class="underline"></div>
+            <div ng-repeat="article in trending" class="list-story">
               <div class="row">
-                <div class="four columns">
-                  <a href=""><img src="http://static.wix.com/media/ab7449_4b116783ec96475db6a849ad11eaf49d.jpg_srz_298_460_75_22_0.5_1.2_75_jpg_srz"></a>
+                <div class="five columns">
+                  <a href=""><img ng-src="{{ article.img }}"></a>
                 </div>
-                <div class="eight columns">
+                <div class="seven columns">
                   <div class="row">
                     <div class="twelve columns">
-                      <p class="style-story">Style</p>
+                      <p class="{{ article.category_style }}">{{ article.category }}</p>
                     </div>
                   </div>
                   <div class="row">
                     <div class="twelve columns">
-                      <h5 class="headline"><a href="">Get your German groove on - Taipei Times</a></h5>
-                      <p class="date-writer">2015-02-25, By Dana Ter</p> 
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="list-story">
-              <div class="row">
-                <div class="four columns">
-                  <a href=""><img src="http://static.wix.com/media/ab7449_4b116783ec96475db6a849ad11eaf49d.jpg_srz_298_460_75_22_0.5_1.2_75_jpg_srz"></a>
-                </div>
-                <div class="eight columns">
-                  <div class="row">
-                    <div class="twelve columns">
-                      <p class="food-story">Food</p>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="twelve columns">
-                      <h5 class="headline"><a href="">Get your German groove on - Taipei Times</a></h5>
-                      <p class="date-writer">2015-02-25, By Dana Ter</p> 
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="list-story">
-              <div class="row">
-                <div class="four columns">
-                  <a href=""><img src="http://static.wix.com/media/ab7449_4b116783ec96475db6a849ad11eaf49d.jpg_srz_298_460_75_22_0.5_1.2_75_jpg_srz"></a>
-                </div>
-                <div class="eight columns">
-                  <div class="row">
-                    <div class="twelve columns">
-                      <p class="arts-story">Art</p>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="twelve columns">
-                      <h5 class="headline"><a href="">Get your German groove on - Taipei Times</a></h5>
-                      <p class="date-writer">2015-02-25, By Dana Ter</p> 
+                      <h5 class="headline"><a href="{{ article.link }}">{{ article.title }}</a></h5>
+                      <p class="date-writer">{{ article.published }}, By {{ article.author }}</p>
                     </div>
                   </div>
                 </div>

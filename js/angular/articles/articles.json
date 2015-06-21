@@ -1,100 +1,90 @@
 [
  {
-  "title": "Unusual island paradise",
+  "title": "Three-day hustle in Ho Chi Minh City",
   "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-02-25",
+  "author": "Dana Ter",
   "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/unusual_island_paradise.jpg"
+  "category_style": "travel-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg",
+  "trending": true
  },
  {
-  "title": "Unusual island paradise",
+  "title": "Dining on the Tamsui River in a Mississippi boat",
   "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-06-25",
+  "author": "Dana Ter",
+  "category": "Food",
+  "category_style": "food-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/20/p12-150620-p4r.jpg",
+  "trending": true
+ },
+ {
+  "title": "Three-day hustle in Ho Chi Minh City1",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-02-25",
+  "author": "Dana Ter",
   "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/cathing_waves_in_kenting.jpg"
+  "category_style": "travel-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg",
+  "trending": true
  },
  {
-  "title": "Unusual island paradise",
+  "title": "Dining on the Tamsui River in a Mississippi boat1",
   "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-06-25",
+  "author": "Dana Ter",
+  "category": "Food",
+  "category_style": "food-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/20/p12-150620-p4r.jpg",
+  "trending": false
+ },
+ {
+  "title": "Three-day hustle in Ho Chi Minh City2",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-02-25",
+  "author": "Dana Ter",
   "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/finding_the_world_in_dulan.jpg"
+  "category_style": "travel-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg",
+  "trending": false
  },
  {
-  "title": "Unusual island paradise",
+  "title": "Dining on the Tamsui River in a Mississippi boat2",
   "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-06-25",
+  "author": "Dana Ter",
+  "category": "Food",
+  "category_style": "food-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/20/p12-150620-p4r.jpg",
+  "trending": false
+ },
+ {
+  "title": "Three-day hustle in Ho Chi Minh City3",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-02-25",
+  "author": "Dana Ter",
   "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/greater_kaohsiung.jpg"
+  "category_style": "travel-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg",
+  "trending": false
  },
  {
-  "title": "Unusual island paradise",
+  "title": "Dining on the Tamsui River in a Mississippi boat3",
   "publisher": "Taipei Times",
-  "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/lifes_a_beach_in_kenting.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "BBC Travel",
-  "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/more_than_just_a_radioactive_hot_spring.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Review",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/cathing_waves_in_kenting.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Feature",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/unusual_island_paradise.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/cathing_waves_in_kenting.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Portrait",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/finding_the_world_in_dulan.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/greater_kaohsiung.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/lifes_a_beach_in_kenting.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/more_than_just_a_radioactive_hot_spring.jpg"
- },
- {
-  "title": "Unusual island paradise",
-  "publisher": "Taipei Times",
-  "category": "Travel",
-  "desc": "Bla bal bal bla bla",
-  "img": "js/angular/articles/img/cathing_waves_in_kenting.jpg"
+  "link": "http://www.taipeitimes.com",
+  "published": "2015-06-25",
+  "author": "Dana Ter",
+  "category": "Food",
+  "category_style": "food-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/20/p12-150620-p4r.jpg",
+  "trending": false
  }
 ]

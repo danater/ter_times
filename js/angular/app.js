@@ -7,16 +7,8 @@ portfolioApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
       when('/', {
-        templateUrl: '/js/angular/partials/name.html',
-        controller: 'NameCtrl'
-      }).
-      when('/portfolio', {
-        templateUrl: '/js/angular/partials/portfolio_list.html',
-        controller: 'PortfolioListCtrl'
-      }).
-      when('/about', {
-        templateUrl: '/js/angular/partials/about.html',
-        controller: 'AboutCtrl'
+        templateUrl: '/ter_times/js/angular/partials/home.html',
+        controller: 'HomeCtrl'
       }).
       otherwise({
         redirectTo: '/'
