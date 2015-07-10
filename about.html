@@ -69,27 +69,27 @@
             <p class="date-writer">2015-02-25, By Dana Ter</p>
           </div>
         </div>
-      </div>
-      <div class="four columns">
-        <div class="row">
-          <div class="twelve columns list center">
-            <h4 class="list-headline">Recent Articles</h4>
-            <div class="underline"></div>
-            <div ng-repeat="article in recent" class="list-story">
-              <div class="row">
-                <div class="five columns">
-                  <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
-                </div>
-                <div class="seven columns">
-                  <div class="row">
-                    <div class="twelve columns">
-                      <p class="{{ article.category_style }}">{{ article.category }}</p>
-                    </div>
+        <div class="four columns">
+          <div class="row">
+            <div class="twelve columns list center">
+              <h4 class="list-headline">Recent Articles</h4>
+              <div class="underline"></div>
+              <div ng-repeat="article in recent" class="list-story">
+                <div class="row">
+                  <div class="five columns">
+                    <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
                   </div>
-                  <div class="row">
-                    <div class="twelve columns">
-                      <h5 class="headline"><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></h5>
-                      <p class="date-writer">{{ article.published }}, By {{ article.author }}</p>
+                  <div class="seven columns">
+                    <div class="row">
+                      <div class="twelve columns">
+                        <p class="{{ article.category_style }}">{{ article.category }}</p>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="twelve columns">
+                        <h5 class="headline"><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></h5>
+                        <p class="date-writer">{{ article.published }}, By {{ article.author }}</p>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -98,7 +98,6 @@
           </div>
         </div>
       </div>
-    </div>
 
     <div class="row">
       <div class="twelve columns story"></div>
