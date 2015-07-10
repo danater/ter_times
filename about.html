@@ -32,11 +32,7 @@
     <div class="row">
       <div class="twelve columns">
         <ul id="navlist">
-          <li><a class="home" href="" ng-click='filter(1)'>Home</a></li>
-          <li><a class="arts" href="" ng-click='filter(2)'>Arts & Culture</a></li>
-          <li><a class="entertainment" href="" ng-click='filter(3)'>Entertainment</a></li>
-          <li><a class="travel" href="" ng-click='filter(4)'>Travel</a></li>
-          <li><a class="food" href="" ng-click='filter(5)'>Food</a></li>
+          <li><a class="home" href="/">Back</a>
         </ul>
       </div>
     </div>
@@ -44,7 +40,7 @@
       <div class="eight columns">
         <div class="row">
           <div class="twelve columns head-story">
-            <a href="/about.html"><img src="http://static.wixstatic.com/media/ab7449_f798d4b2471047f9a0a827e957e7fa22.jpg_srz_p_796_515_75_22_0.50_1.20_0.00_jpg_srz"></a>
+            <a href="/Dana.html"><img src="http://static.wixstatic.com/media/ab7449_f798d4b2471047f9a0a827e957e7fa22.jpg_srz_p_796_515_75_22_0.50_1.20_0.00_jpg_srz"></a>
 
           <div class="row">
             <div class="twelve columns">
@@ -54,37 +50,23 @@
           
             <div class="row">
             <div class="twelve columns">
-              <h1 class="headline"><a href="/about.html">Who is Dana Ter?</a></h1>
+              <h1 class="headline"><a href="/Dana.html">Who is Dana Ter?</a></h1>
+            </div>
+          </div>
+          <div class="row">
+            <div class="twelve columns">
+              <p>
+                I grew up as a Third Culture Kid in Malaysia, Indonesia, Singapore, Thailand, Hong Kong and Taiwan, and was educated in Australia, the US and the UK. My family currently lives in South Korea and I work as a journalist in Taipei, Taiwan. Before that, I was a freelance writer based in New York City's Upper West Side. If I had to list all the countries I've traveled to, it wouldn't fit on this page.
+              </p>
+              <p>
+                While I do enjoy my share of steamed dumplings and beef noodles now, I still crave cream cheese bagels and pastrami sandwiches with pickles. When I'm not tapping away on my laptop, I'm usually doodling in my sketchbook, looking for a good surf beach, plotting my next international (mis)adventure, or trying to tame my fiery side by practicing yoga.
+                 
+                I have a Dual MA/MSc in International and World History from Columbia University and the London School of Economics.
+              </p>
             </div>
           </div>
 
             <p class="date-writer">2015-02-25, By Dana Ter</p>
-          </div>
-        </div>
-
-        <div ng-repeat="rows in chunkedData" class="row">
-          <div ng-repeat="article in rows" class="six columns story">
-            <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
-
-            <div class="row">
-              <div class="twelve columns">
-                <p class="{{ article.category_style }}">{{ article.category }}</p>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="twelve columns">
-                <h1 class="headline"><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></h1>
-              </div>
-            </div>
-
-            <p class="date-writer">{{ article.published }}, By {{ article.author }}</p>
-
-          </div>
-        </div>
-        <div class="row">
-          <div class="twelve columns center">
-            <h4 class="headline"><a ng-href="" ng-click='loadMore()' >More stories</a></h4>
           </div>
         </div>
       </div>
@@ -127,10 +109,10 @@
     </div>
   </div>
   <script>
-    var days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
-    var months = ["January","February","March","April","May","June","July", "August", "September", "October", "November", "December"];
-    var d = new Date();
-    document.getElementById("weather").innerHTML = days[d.getDay()] + ', ' + months[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
-  </script>
+      var days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+      var months = ["January","February","March","April","May","June","July", "August", "September", "October", "November", "December"];
+      var d = new Date();
+      document.getElementById("weather").innerHTML = days[d.getDay()] + ', ' + months[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+    </script>
 </body>
 </html>

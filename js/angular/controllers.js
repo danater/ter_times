@@ -8,10 +8,10 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http',
     $http.get('js/angular/articles/articles.json').success(function(data) {
       $scope.allArticles = data;
       $scope.articles = $scope.allArticles;
-      $scope.trending = [];
-      for (var i = $scope.articles.length - 1; i >= 0; i--) {
-        if($scope.articles[i].trending == true) {
-          $scope.trending.push($scope.articles[i]);
+      $scope.recent = [];
+      for (var i = 0; i < $scope.allArticles.length; i++) {
+        if($scope.articles[i].recent == true) {
+          $scope.recent.push($scope.articles[i]);
         }
       };
       slice($scope.limit);
@@ -44,12 +44,12 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http',
           slice($scope.limit);
           break;
         case 2:
-          $scope.articles = filterArticles('Arts');
+          $scope.articles = filterArticles('Arts & Culture');
           $scope.limit = 6;
           slice($scope.limit);
           break;
         case 3:
-          $scope.articles = filterArticles('Style');
+          $scope.articles = filterArticles('Entertainment');
           $scope.limit = 6;
           slice($scope.limit);
           break;
@@ -72,7 +72,7 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http',
 
     filterArticles = function(category) {
       temp = [];
-      for (var i = $scope.allArticles.length - 1; i >= 0; i--) {
+      for (var i = 0; i < $scope.allArticles.length; i++) {
         if($scope.allArticles[i].category == category) {
           temp.push($scope.allArticles[i]);
         }
