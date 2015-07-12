@@ -25,7 +25,7 @@
         <h1 class="huge">Ter Times</h1>
       </div>
       <div class="three columns bottom">
-        <p class="weather">Saturday, June 20, 2015</p>
+        <p id="weather" class="weather"></p>
       </div>
     </div>
     <div class="underline"></div>
@@ -33,8 +33,8 @@
       <div class="twelve columns">
         <ul id="navlist">
           <li><a class="home" href="" ng-click='filter(1)'>Home</a></li>
-          <li><a class="arts" href="" ng-click='filter(2)'>Arts</a></li>
-          <li><a class="style" href="" ng-click='filter(3)'>Style</a></li>
+          <li><a class="arts" href="" ng-click='filter(2)'>Arts & Culture</a></li>
+          <li><a class="entertainment" href="" ng-click='filter(3)'>Entertainment</a></li>
           <li><a class="travel" href="" ng-click='filter(4)'>Travel</a></li>
           <li><a class="food" href="" ng-click='filter(5)'>Food</a></li>
         </ul>
@@ -44,7 +44,7 @@
       <div class="eight columns">
         <div class="row">
           <div class="twelve columns head-story">
-            <a href="/Dana.html"><img src="img/dana.jpg"></a>
+            <a href="/ter_times/about.html"><img src="http://static.wixstatic.com/media/ab7449_f798d4b2471047f9a0a827e957e7fa22.jpg_srz_p_796_515_75_22_0.50_1.20_0.00_jpg_srz"></a>
 
           <div class="row">
             <div class="twelve columns">
@@ -54,7 +54,7 @@
           
             <div class="row">
             <div class="twelve columns">
-              <h1 class="headline"><a href="/Dana.html">Who is Dana Ter?</a></h1>
+              <h1 class="headline"><a href="/ter_times/about.html">Who is Dana Ter?</a></h1>
             </div>
           </div>
 
@@ -64,7 +64,7 @@
 
         <div ng-repeat="rows in chunkedData" class="row">
           <div ng-repeat="article in rows" class="six columns story">
-            <a href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
+            <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
 
             <div class="row">
               <div class="twelve columns">
@@ -74,7 +74,7 @@
 
             <div class="row">
               <div class="twelve columns">
-                <h1 class="headline"><a href="{{ article.link }}">{{ article.title }}</a></h1>
+                <h1 class="headline"><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></h1>
               </div>
             </div>
 
@@ -91,12 +91,12 @@
       <div class="four columns">
         <div class="row">
           <div class="twelve columns list center">
-            <h4 class="list-headline">Trending</h4>
+            <h4 class="list-headline">Recent Articles</h4>
             <div class="underline"></div>
-            <div ng-repeat="article in trending" class="list-story">
+            <div ng-repeat="article in recent" class="list-story">
               <div class="row">
                 <div class="five columns">
-                  <a href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
+                  <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
                 </div>
                 <div class="seven columns">
                   <div class="row">
@@ -106,7 +106,7 @@
                   </div>
                   <div class="row">
                     <div class="twelve columns">
-                      <h5 class="headline"><a href="{{ article.link }}">{{ article.title }}</a></h5>
+                      <h5 class="headline"><a target="_blank" href="{{ article.link }}">{{ article.title }}</a></h5>
                       <p class="date-writer">{{ article.published }}, By {{ article.author }}</p>
                     </div>
                   </div>
@@ -121,10 +121,16 @@
     <div class="row">
       <div class="twelve columns story"></div>
         <span>Copyright 2015 Dana Ter</span>
-        <span><a href="mailto:">Dana@mail.com</a></span>
-        <span><a href="mailto:">Twitter</a></span>
-        <span><a href="mailto:">Contently</a></span>
+        <span><a href="mailto:danayter@gmail.com">danayter@gmail.com</a></span>
+        <span><a target="_blank" href="https://twitter.com/danayter">Twitter</a></span>
+        <span><a target="_blank" href="https://danater.contently.com">Contently</a></span>
     </div>
   </div>
+  <script>
+    var days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+    var months = ["January","February","March","April","May","June","July", "August", "September", "October", "November", "December"];
+    var d = new Date();
+    document.getElementById("weather").innerHTML = days[d.getDay()] + ', ' + months[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+  </script>
 </body>
 </html>
