@@ -1,5 +1,16 @@
 [
  {
+  "title": "The Hardest Thing About Being Beautiful in Asia",
+  "publisher": "Mic",
+  "link": "http://mic.com/articles/61133/the-hardest-thing-about-being-beautiful-in-asia",
+  "published": "2013-08-27",
+  "author": "Dana Ter",
+  "category": "Entertainment",
+  "category_style": "entertainment-story",
+  "img": "https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512",
+  "recent": false
+ },
+ {
   "title": "Dining on the Tamsui River in a Mississippi boat",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/20/2003621116",
@@ -107,17 +118,6 @@
   "category": "Arts & Culture",
   "category_style": "arts&culture-story",
   "img": "https://s3.amazonaws.com/external_clips/695987/PM_Article_6_article.jpg?1401516604",
-  "recent": false
- },
- {
-  "title": "The Hardest Thing About Being Beautiful in Asia",
-  "publisher": "Mic",
-  "link": "http://mic.com/articles/61133/the-hardest-thing-about-being-beautiful-in-asia",
-  "published": "2013-08-27",
-  "author": "Dana Ter",
-  "category": "Entertainment",
-  "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512",
   "recent": false
  },
 ]
