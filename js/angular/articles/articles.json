@@ -22,6 +22,28 @@
   "recent": true
  },
  {
+  "title": "Weaving a Story",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2014/08/07/2003596828",
+  "published": "2014-08-07",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "http://www.taipeitimes.com/images/2014/08/07/p12-140807-dress5.jpg",
+  "recent": false
+ },
+ {
+  "title": "I’m a Traveler and a Writer, But I Have a Serious Problem With Travel Writing ",
+  "publisher": "Contently",
+  "link": "http://contently.net/2014/07/25/stories/im-traveler-writer-serious-problem-travel-writing/",
+  "published": "2014-07-25",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": "https://s3.amazonaws.com/external_clips/888488/Suitcase_on_a_beach_photo_courtesy_npr_article.jpg?1413183354",
+  "recent": false
+ },
+ {
   "title": "Meet 100+ Cats in the “Cat Village” of Houtong, Taiwan, near Taipei",
   "publisher": "Untapped Cities",
   "link": "http://untappedcities.com/2014/06/17/meet-100-cats-in-the-cat-village-of-houtong-taiwan-near-teipei/",
