@@ -9,7 +9,7 @@
   "category_style": "food-story",
   "img": "http://www.taipeitimes.com/images/2015/06/20/thumbs/p12-150620-p6r.jpg",
   "recent": false
- }
+ },
  {
   "title": "Three-day hustle in Ho Chi Minh City",
   "publisher": "Taipei Times",
@@ -119,5 +119,5 @@
   "category_style": "entertainment-story",
   "img": "https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512",
   "recent": false
- },
+ }
 ]
