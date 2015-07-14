@@ -22,10 +22,32 @@
   "recent": true
  },
  {
+  "title": "Art for All?",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/01/18/2003609502",
+  "published": "2015-01-18",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "http://www.taipeitimes.com/images/2015/01/18/P12-150118-p12A.jpg",
+  "recent": false
+ },
+ {
+  "title": "Book Review: Sons of the Republic",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2014/12/18/2003606995",
+  "published": "2014-12-18",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "http://www.taipeitimes.com/images/2014/12/18/p11-141218-book.jpg",
+  "recent": false
+ },
+ {
   "title": "More Than A New York Gangster Biopic",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2014/12/13/2003606607",
-  "published": "2014-11-20",
+  "published": "2014-12-13",
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
