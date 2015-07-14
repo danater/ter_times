@@ -1,68 +1,46 @@
 [
  {
-  "title": "The Hardest Thing About Being Beautiful in Asia",
+  "title": "Dining on the Tamsui River in a Mississippi boat",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/20/2003621116",
+  "published": "2015-06-20",
+  "author": "Dana Ter",
+  "category": "Food",
+  "category_style": "food-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/20/thumbs/p12-150620-p6r.jpg",
+  "recent": false
+ }
+ {
+  "title": "Three-day hustle in Ho Chi Minh City",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/17/2003620879",
+  "published": "2015-06-17",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg",
+  "recent": true
+ },
+ {
+  "title": "7 Reasons Why 'Resurrection' Has Nothing on 'The Returned'",
   "publisher": "Mic",
-  "link": "http://mic.com/articles/61133/the-hardest-thing-about-being-beautiful-in-asia",
-  "published": "2013-08-27",
+  "link": "http://mic.com/articles/84769/7-reasons-why-resurrection-has-nothing-on-the-returned",
+  "published": "2014-03-10",
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512",
+  "img": "https://s3.amazonaws.com/external_clips/696016/open-uri20140531-30734-1lahguz_article.jpeg?1401516026",
   "recent": false
  },
- {
-  "title": "Meet the Hello Kitty Jet, the World’s Cutest Airplane",
+  {
+  "title": "The Korean Clothing Trend Breaking Down Dating Barriers",
   "publisher": "Mic",
-  "link": "http://mic.com/articles/65707/meet-the-hello-kitty-jet-the-world-s-cutest-airplane",
-  "published": "2013-09-30",
+  "link": "http://mic.com/articles/78193/the-korean-clothing-trend-breaking-down-dating-barriers",
+  "published": "2014-01-06",
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts&culture-story",
-  "img": "https://s3.amazonaws.com/external_clips/695987/PM_Article_6_article.jpg?1401516604",
-  "recent": false
- },
- {
-  "title": "Miley Cyrus and the Roots Singing 'We Can't Stop' A Cappella is the Best Thing Today",
-  "publisher": "Mic",
-  "link": "http://mic.com/articles/67049/miley-cyrus-and-the-roots-singing-we-can-t-stop-a-cappella-is-the-best-thing-today",
-  "published": "2013-10-09",
-  "author": "Dana Ter",
-  "category": "Entertainment",
-  "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/695990/PM_Article_8_article.jpg?1401516642",
-  "recent": false
- },
- {
-  "title": "If You Die in Taiwan, There Will Be Strippers At Your Funeral",
-  "publisher": "Mic",
-  "link": "http://mic.com/articles/69307/if-you-die-in-taiwan-there-will-be-strippers-at-your-funeral",
-  "published": "2013-10-23",
-  "author": "Dana Ter",
-  "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
-  "img": "https://s3.amazonaws.com/external_clips/695995/open-uri20140531-20880-1cutiie_article.jpeg?1401515646",
-  "recent": false
- },
- {
-  "title": "The Korean DMZ is Home to Tragedy, Sadness, and an Amusement Park",
-  "publisher": "Mic",
-  "link": "http://mic.com/articles/70329/the-korean-dmz-is-home-to-tragedy-sadness-and-an-amusement-park",
-  "published": "2013-10-29",
-  "author": "Dana Ter",
-  "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
-  "img": "https://s3.amazonaws.com/external_clips/695997/open-uri20140531-20880-krdsrg_article.jpeg?1401515690",
-  "recent": false
- },
- {
-  "title": "Cultural Appropriation Isn’t an American Problem",
-  "publisher": "Mic",
-  "link": "http://mic.com/articles/75171/cultural-appropriation-isn-t-an-american-problem",
-  "published": "2013-12-02",
-  "author": "Dana Ter",
-  "category": "Entertainment",
-  "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/696007/open-uri20140531-30734-m7rwbr_article.jpeg?1401515885",
+  "img": "https://s3.amazonaws.com/external_clips/696012/open-uri20140531-30734-1mr7t5s_article.jpeg?1401515966",
   "recent": false
  },
  {
@@ -77,47 +55,69 @@
   "recent": false
  },
  {
-  "title": "The Korean Clothing Trend Breaking Down Dating Barriers",
+  "title": "Cultural Appropriation Isn’t an American Problem",
   "publisher": "Mic",
-  "link": "http://mic.com/articles/78193/the-korean-clothing-trend-breaking-down-dating-barriers",
-  "published": "2014-01-06",
-  "author": "Dana Ter",
-  "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
-  "img": "https://s3.amazonaws.com/external_clips/696012/open-uri20140531-30734-1mr7t5s_article.jpeg?1401515966",
-  "recent": false
- },
- {
-  "title": "7 Reasons Why 'Resurrection' Has Nothing on 'The Returned'",
-  "publisher": "Mic",
-  "link": "http://mic.com/articles/84769/7-reasons-why-resurrection-has-nothing-on-the-returned",
-  "published": "2014-03-10",
+  "link": "http://mic.com/articles/75171/cultural-appropriation-isn-t-an-american-problem",
+  "published": "2013-12-02",
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/696016/open-uri20140531-30734-1lahguz_article.jpeg?1401516026",
+  "img": "https://s3.amazonaws.com/external_clips/696007/open-uri20140531-30734-m7rwbr_article.jpeg?1401515885",
   "recent": false
  },
  {
-  "title": "Three-day hustle in Ho Chi Minh City",
-  "publisher": "Taipei Times",
-  "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/17/2003620879",
-  "published": "2015-06-17",
+  "title": "The Korean DMZ is Home to Tragedy, Sadness, and an Amusement Park",
+  "publisher": "Mic",
+  "link": "http://mic.com/articles/70329/the-korean-dmz-is-home-to-tragedy-sadness-and-an-amusement-park",
+  "published": "2013-10-29",
   "author": "Dana Ter",
-  "category": "Travel",
-  "category_style": "travel-story",
-  "img": "http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg",
-  "recent": true
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "https://s3.amazonaws.com/external_clips/695997/open-uri20140531-20880-krdsrg_article.jpeg?1401515690",
+  "recent": false
  },
  {
-  "title": "Dining on the Tamsui River in a Mississippi boat",
-  "publisher": "Taipei Times",
-  "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/20/2003621116",
-  "published": "2015-06-20",
+  "title": "If You Die in Taiwan, There Will Be Strippers At Your Funeral",
+  "publisher": "Mic",
+  "link": "http://mic.com/articles/69307/if-you-die-in-taiwan-there-will-be-strippers-at-your-funeral",
+  "published": "2013-10-23",
   "author": "Dana Ter",
-  "category": "Food",
-  "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/06/20/thumbs/p12-150620-p6r.jpg",
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "https://s3.amazonaws.com/external_clips/695995/open-uri20140531-20880-1cutiie_article.jpeg?1401515646",
   "recent": false
- }
+ },
+ {
+  "title": "Miley Cyrus and the Roots Singing 'We Can't Stop' A Cappella is the Best Thing Today",
+  "publisher": "Mic",
+  "link": "http://mic.com/articles/67049/miley-cyrus-and-the-roots-singing-we-can-t-stop-a-cappella-is-the-best-thing-today",
+  "published": "2013-10-09",
+  "author": "Dana Ter",
+  "category": "Entertainment",
+  "category_style": "entertainment-story",
+  "img": "https://s3.amazonaws.com/external_clips/695990/PM_Article_8_article.jpg?1401516642",
+  "recent": false
+ },
+ {
+  "title": "Meet the Hello Kitty Jet, the World’s Cutest Airplane",
+  "publisher": "Mic",
+  "link": "http://mic.com/articles/65707/meet-the-hello-kitty-jet-the-world-s-cutest-airplane",
+  "published": "2013-09-30",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "https://s3.amazonaws.com/external_clips/695987/PM_Article_6_article.jpg?1401516604",
+  "recent": false
+ },
+ {
+  "title": "The Hardest Thing About Being Beautiful in Asia",
+  "publisher": "Mic",
+  "link": "http://mic.com/articles/61133/the-hardest-thing-about-being-beautiful-in-asia",
+  "published": "2013-08-27",
+  "author": "Dana Ter",
+  "category": "Entertainment",
+  "category_style": "entertainment-story",
+  "img": "https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512",
+  "recent": false
+ },
 ]
