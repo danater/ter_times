@@ -22,6 +22,39 @@
   "recent": true
  },
  {
+  "title": "Art and Nature Together At Last",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/15/2003620722",
+  "published": "2015-06-15",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "2015-06-15",
+  "recent": false
+ },
+ {
+  "title": "Bake Me A Vegan Cupcake",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/05/21/2003618773",
+  "published": "2015-05-21",
+  "author": "Dana Ter",
+  "category": "Food",
+  "category_style": "food-story",
+  "img": "http://www.taipeitimes.com/images/2015/05/21/p12-150521-p3r.jpg",
+  "recent": false
+ },
+ {
+  "title": "Restaurant Review: Spot",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/05/09/2003617833",
+  "published": "2015-05-09",
+  "author": "Dana Ter",
+  "category": "Food",
+  "category_style": "food-story",
+  "img": "http://www.taipeitimes.com/images/2015/05/09/P12-150509-a7.jpg",
+  "recent": false
+ },
+ {
   "title": "Millet Wine with the Aborigines of Taiwan",
   "publisher": "Roads & Kingdoms",
   "link": "http://roadsandkingdoms.com/5-oclock-somewhere/millet-wine-with-the-aborigines-of-taiwan/",
