@@ -1,5 +1,16 @@
 [
  {
+  "title": "How to Survive 48 Hours at a Farm Retreat for Couples",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/07/01/2003621976",
+  "published": "2015-07-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": "http://www.taipeitimes.com/images/2015/07/01/p12-150701-a1.jpg",
+  "recent": true
+ },
+ {
   "title": "Dining on the Tamsui River in a Mississippi boat",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/20/2003621116",
@@ -8,6 +19,17 @@
   "category": "Food",
   "category_style": "food-story",
   "img": "http://www.taipeitimes.com/images/2015/06/20/thumbs/p12-150620-p6r.jpg",
+  "recent": false
+ },
+ {
+  "title": "Out of the Shadows, Academically",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/06/18/2003620955",
+  "published": "2015-06-18",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts&culture-story",
+  "img": "http://www.taipeitimes.com/images/2015/06/18/p12-150618-a3.jpg",
   "recent": false
  },
  {
