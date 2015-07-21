@@ -50,7 +50,7 @@
   "published": "2015-06-18",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts-&-culture-story",
+  "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2015/06/18/p12-150618-a3.jpg",
   "recent": true
  },
@@ -72,7 +72,7 @@
   "published": "2015-06-15",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2015/06/15/p12-150615-Exiled%20Reef%20(2015)%20-1.jpg",
   "recent": false
  },
@@ -171,7 +171,7 @@
   "published": "2015-01-18",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2015/01/18/P12-150118-p12A.jpg",
   "recent": false
  },
@@ -182,7 +182,7 @@
   "published": "2014-12-18",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2014/12/18/p11-141218-book.jpg",
   "recent": false
  },
@@ -204,7 +204,7 @@
   "published": "2014-11-20",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2014/11/20/p12-141120-p3r.jpg",
   "recent": false
  },
@@ -215,7 +215,7 @@
   "published": "2014-09-10",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "https://s3.amazonaws.com/external_clips/847412/travel_couple_article.png?1410639725",
   "recent": false
  },
@@ -226,7 +226,7 @@
   "published": "2014-08-07",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2014/08/07/p12-140807-dress5.jpg",
   "recent": false
  },
@@ -248,7 +248,7 @@
   "published": "2014-06-24",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "https://s3.amazonaws.com/external_clips/749351/NYPL_photo_credit_Huffington_Post_article.jpg?1404734859",
   "recent": false
  },
@@ -303,7 +303,7 @@
   "published": "2014-01-06",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "https://s3.amazonaws.com/external_clips/696012/open-uri20140531-30734-1mr7t5s_article.jpeg?1401515966",
   "recent": false
  },
@@ -336,7 +336,7 @@
   "published": "2013-10-29",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "https://s3.amazonaws.com/external_clips/695997/open-uri20140531-20880-krdsrg_article.jpeg?1401515690",
   "recent": false
  },
@@ -347,7 +347,7 @@
   "published": "2013-10-23",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "https://s3.amazonaws.com/external_clips/695995/open-uri20140531-20880-1cutiie_article.jpeg?1401515646",
   "recent": false
  },
@@ -369,7 +369,7 @@
   "published": "2013-09-30",
   "author": "Dana Ter",
   "category": "Arts & Culture",
-  "category_style": "arts&culture-story",
+  "category_style": "arts-story",
   "img": "https://s3.amazonaws.com/external_clips/695987/PM_Article_6_article.jpg?1401516604",
   "recent": false
  },
