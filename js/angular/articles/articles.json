@@ -250,7 +250,7 @@
   "category": "Arts & Culture",
   "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2014/11/20/p12-141120-p3r.jpg",
-  "recent": false
+  "recent": true
  },
  {
   "title": "Out of this World",
@@ -316,7 +316,7 @@
   "category": "Arts & Culture",
   "category_style": "arts-story",
   "img": "http://www.taipeitimes.com/images/2014/08/07/p12-140807-dress5.jpg",
-  "recent": false
+  "recent": true
  },
  {
   "title": "I’m a Traveler and a Writer, But I Have a Serious Problem With Travel Writing",
