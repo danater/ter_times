@@ -30,7 +30,7 @@
   "category": "Food",
   "category_style": "food-story",
   "img": "http://www.taipeitimes.com/images/2015/07/04/P12-150704-4.jpg",
-  "recent": true
+  "recent": false
  },
  {
   "title": "How to Survive 48 Hours at a Farm Retreat for Couples",
@@ -107,7 +107,7 @@
   "category": "Food",
   "category_style": "food-story",
   "img": "http://www.taipeitimes.com/images/2015/05/09/P12-150509-a7.jpg",
-  "recent": false
+  "recent": true
  },
  {
   "title": "Millet Wine with the Aborigines of Taiwan",
