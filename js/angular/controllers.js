@@ -59,7 +59,7 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http',
           slice($scope.limit);
           break;
         case 5:
-          $scope.articles = filterArticles('Food');
+          $scope.articles = filterArticles('Food & Drink');
           $scope.limit = 6;
           slice($scope.limit);
           break;
