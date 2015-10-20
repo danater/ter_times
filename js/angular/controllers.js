@@ -62,7 +62,7 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http', '$interval',
           slice($scope.limit);
           break;
         case 5:
-          $scope.articles = filterArticles('Food');
+          $scope.articles = filterArticles('Food & Drink');
           $scope.limit = 6;
           slice($scope.limit);
           break;
@@ -86,28 +86,5 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http', '$interval',
 
     $scope.enterImage = function(article) {
       $scope.nextImage = $interval(function() {
-
-        if(article.img.length == 1) {
-
-        }
-        else if($scope.imgNr < article.img.length - 1) {
-          $scope.imgNr++;
-        }
-        else {
-          $scope.imgNr = 0;
-        }
-        article.showImg = article.img[$scope.imgNr];
-
-      }, 1500);
-    }
-
-    $scope.leaveImage = function(article) {
-      $interval.cancel($scope.nextImage);
-      $scope.imgNr = 0;
-
-      article.showImg = article.img[$scope.imgNr];
-
-
-    }
 
 }]);
