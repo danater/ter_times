@@ -9,25 +9,27 @@
     <link rel= "stylesheet" type= "text/css" href= "css/style.css">
     <link rel= "stylesheet" type= "text/css" href= "css/skeleton.css">
     <link rel= "stylesheet" type= "text/css" href= "css/normalize.css">
+	<link rel= "stylesheet" type= "text/css" href= "css/responsive-nav.css">
 
     <script src="js/script.js"></script>
+	<script src="js/responsive-nav.min.js"></script>
 
     <script src="js/angular/angular.min.js"></script>
     <script src="js/angular/angular-route.min.js"></script>
     <script src="js/angular/app.js"></script>
     <script src="js/angular/controllers.js"></script>
-    
+
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
+
       ga('create', 'UA-68721025-1', 'auto');
       ga('send', 'pageview');
-    
+
     </script>
-  
+
 </head>
 <body ng-controller="HomeCtrl">
   <div class="container">
@@ -42,6 +44,7 @@
     <div class="underline"></div>
     <div class="row">
       <div class="twelve columns">
+	  <nav class="nav-collapse">
         <ul id="navlist">
           <li><a class="home" href="" ng-click='filter(1)'>Home</a></li>
           <li><a class="arts" href="" ng-click='filter(2)'>Arts & Culture</a></li>
@@ -49,6 +52,7 @@
           <li><a class="travel" href="" ng-click='filter(4)'>Travel</a></li>
           <li><a class="food" href="" ng-click='filter(5)'>Food</a></li>
         </ul>
+		</nav>
       </div>
     </div>
     <div class="row">
@@ -62,7 +66,7 @@
               <p class="home-story">About</p>
             </div>
           </div>
-          
+
             <div class="row">
             <div class="twelve columns">
               <h1 class="headline"><a href="/about.html">Who is Dana Ter?</a></h1>
@@ -74,7 +78,7 @@
 
         <div ng-repeat="rows in chunkedData" class="row">
           <div ng-repeat="article in rows" class="six columns story">
-            <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
+            <a target="_blank" href="{{ article.link }}"><img ng-mouseenter="enterImage(article)" ng-mouseleave="leaveImage(article)" ng-src="{{ article.showImg }}"></a>
 
             <div class="row">
               <div class="twelve columns">
@@ -106,7 +110,7 @@
             <div ng-repeat="article in recent" class="list-story">
               <div class="row">
                 <div class="five columns">
-                  <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img }}"></a>
+                  <a target="_blank" href="{{ article.link }}"><img ng-src="{{ article.img[0] }}"></a>
                 </div>
                 <div class="seven columns">
                   <div class="row">
@@ -142,5 +146,8 @@
     var d = new Date();
     document.getElementById("weather").innerHTML = days[d.getDay()] + ', ' + months[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
   </script>
+	<script>
+	  var nav = responsiveNav(".nav-collapse");
+	</script>
 </body>
 </html>

@@ -7,7 +7,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/10/07/P12-151007-1aa.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/10/07/P12-151007-1aa.jpg", "https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512", "http://www.taipeitimes.com/images/2015/09/26/P12-150926-1aa.jpg"],
   "recent": false
  },
   {
@@ -18,7 +18,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/09/26/P12-150926-1aa.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/09/26/P12-150926-1aa.jpg", "http://i0.wp.com/roadsandkingdoms.com/uploads/2015/09/H%E1%BB%A7_ti%E1%BA%BFu_th%E1%BA%ADp_c%E1%BA%A9m.jpg?w=960&quality=75&strip=all"],
   "recent": false
  },
   {
@@ -29,7 +29,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://i0.wp.com/roadsandkingdoms.com/uploads/2015/09/H%E1%BB%A7_ti%E1%BA%BFu_th%E1%BA%ADp_c%E1%BA%A9m.jpg?w=960&quality=75&strip=all",
+  "img": ["http://i0.wp.com/roadsandkingdoms.com/uploads/2015/09/H%E1%BB%A7_ti%E1%BA%BFu_th%E1%BA%ADp_c%E1%BA%A9m.jpg?w=960&quality=75&strip=all"],
   "recent": true
  },
   {
@@ -40,7 +40,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/09/14/p12-150914-Memories091.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/09/14/p12-150914-Memories091.jpg"],
   "recent": false
  },
   {
@@ -51,7 +51,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/09/12/p12-150912-Sesame%20noodles.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/09/12/p12-150912-Sesame%20noodles.jpg"],
   "recent": false
  },
   {
@@ -62,7 +62,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/09/02/P12-150902-1DD.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/09/02/P12-150902-1DD.jpg"],
   "recent": false
  },
  {
@@ -73,7 +73,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/08/29/P12-150829-2.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/08/29/P12-150829-2.jpg"],
   "recent": true
  },
  {
@@ -84,7 +84,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "http://www.taipeitimes.com/images/2015/08/19/P12-150819-a.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/08/19/P12-150819-a.jpg"],
   "recent": true
  },
  {
@@ -95,7 +95,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/08/15/P12-150815-d.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/08/15/P12-150815-d.jpg"],
   "recent": false
  },
  {
@@ -106,7 +106,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/08/10/thumbs/p12-150810-aa1.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/08/10/thumbs/p12-150810-aa1.jpg"],
   "recent": false
  },
  {
@@ -117,7 +117,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/07/24/P12-150724-2.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/07/24/P12-150724-2.jpg"],
   "recent": false
  },
  {
@@ -128,7 +128,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://roadsandkingdoms.com/uploads/2015/07/Busan-3-640x490.jpg",
+  "img": ["http://roadsandkingdoms.com/uploads/2015/07/Busan-3-640x490.jpg"],
   "recent": true
  },
  {
@@ -139,7 +139,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/07/04/P12-150704-4.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/07/04/P12-150704-4.jpg"],
   "recent": false
  },
  {
@@ -150,7 +150,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "http://www.taipeitimes.com/images/2015/07/01/p12-150701-a1.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/07/01/p12-150701-a1.jpg"],
   "recent": true
  },
  {
@@ -161,7 +161,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/06/20/thumbs/p12-150620-p6r.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/06/20/thumbs/p12-150620-p6r.jpg"],
   "recent": false
  },
  {
@@ -172,7 +172,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/06/18/p12-150618-a3.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/06/18/p12-150618-a3.jpg"],
   "recent": false
  },
  {
@@ -183,7 +183,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/06/17/p12-150617-p5r.jpg"],
   "recent": true
  },
  {
@@ -194,7 +194,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/06/15/p12-150615-Exiled%20Reef%20(2015)%20-1.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/06/15/p12-150615-Exiled%20Reef%20(2015)%20-1.jpg"],
   "recent": false
  },
  {
@@ -205,7 +205,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/05/21/p12-150521-p3r.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/05/21/p12-150521-p3r.jpg"],
   "recent": false
  },
  {
@@ -216,7 +216,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/05/09/P12-150509-a7.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/05/09/P12-150509-a7.jpg"],
   "recent": false
  },
  {
@@ -227,7 +227,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "https://s3.amazonaws.com/external_clips/1222475/unnamed1-960x639_article.jpg?1432966820",
+  "img": ["https://s3.amazonaws.com/external_clips/1222475/unnamed1-960x639_article.jpg?1432966820"],
   "recent": true
  },
  {
@@ -238,7 +238,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/04/19/P12-150419-1.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/04/19/P12-150419-1.jpg"],
   "recent": false
  },
  {
@@ -249,7 +249,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/04/16/p12-150416-Ruth%20Walke.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/04/16/p12-150416-Ruth%20Walke.jpg"],
   "recent": false
  },
  {
@@ -260,7 +260,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "https://s3.amazonaws.com/external_clips/1149213/Anita-1_(photo_by_Anita_Vischka__GoPro)_article.jpeg?1430190247",
+  "img": ["https://s3.amazonaws.com/external_clips/1149213/Anita-1_(photo_by_Anita_Vischka__GoPro)_article.jpeg?1430190247"],
   "recent": true
  },
  {
@@ -271,7 +271,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "http://www.taipeitimes.com/images/2015/03/25/p12-150325-Dulan4.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/03/25/p12-150325-Dulan4.jpg"],
   "recent": true
  },
  {
@@ -282,7 +282,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "http://www.taipeitimes.com/images/2015/03/16/p12-150316-a2.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/03/16/p12-150316-a2.jpg"],
   "recent": false
  },
  {
@@ -293,7 +293,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/03/14/p12-150314-mush.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/03/14/p12-150314-mush.jpg"],
   "recent": false
  },
  {
@@ -304,7 +304,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "http://www.taipeitimes.com/images/2015/02/04/p12-150204-a2.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/02/04/p12-150204-a2.jpg"],
   "recent": false
  },
  {
@@ -315,7 +315,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2015/01/18/P12-150118-p12A.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/01/18/P12-150118-p12A.jpg"],
   "recent": false
  },
  {
@@ -326,7 +326,7 @@
   "author": "Dana Ter",
   "category": "Food",
   "category_style": "food-story",
-  "img": "http://www.taipeitimes.com/images/2015/01/08/p12-150108-rt5.jpg",
+  "img": ["http://www.taipeitimes.com/images/2015/01/08/p12-150108-rt5.jpg"],
   "recent": false
  },
  {
@@ -337,7 +337,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/12/18/p11-141218-book.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/12/18/p11-141218-book.jpg"],
   "recent": false
  },
   {
@@ -348,7 +348,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/12/14/P12-141214-a5.jpeg",
+  "img": ["http://www.taipeitimes.com/images/2014/12/14/P12-141214-a5.jpeg"],
   "recent": false
  },
  {
@@ -359,7 +359,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "http://www.taipeitimes.com/images/2014/12/13/p12-141213-aa1.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/12/13/p12-141213-aa1.jpg"],
   "recent": false
  },
  {
@@ -370,7 +370,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/11/20/p12-141120-p3r.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/11/20/p12-141120-p3r.jpg"],
   "recent": true
  },
  {
@@ -381,7 +381,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/11/16/p12-141116-a1.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/11/16/p12-141116-a1.jpg"],
   "recent": false
  },
  {
@@ -392,7 +392,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/11/02/p12-141102-a5.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/11/02/p12-141102-a5.jpg"],
   "recent": false
  },
  {
@@ -403,7 +403,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "http://www.taipeitimes.com/images/2014/10/29/p12-141029-a1.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/10/29/p12-141029-a1.jpg"],
   "recent": false
  },
  {
@@ -414,7 +414,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/09/21/p12-140921-Mirage.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/09/21/p12-140921-Mirage.jpg"],
   "recent": false
  },
  {
@@ -425,7 +425,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "https://s3.amazonaws.com/external_clips/847412/travel_couple_article.png?1410639725",
+  "img": ["https://s3.amazonaws.com/external_clips/847412/travel_couple_article.png?1410639725"],
   "recent": false
  },
  {
@@ -436,7 +436,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/08/24/p12-140824-Not%20To%20Sing-2.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/08/24/p12-140824-Not%20To%20Sing-2.jpg"],
   "recent": false
  },
  {
@@ -447,7 +447,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/08/07/p12-140807-dress5.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/08/07/p12-140807-dress5.jpg"],
   "recent": false
  },
  {
@@ -458,7 +458,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "https://s3.amazonaws.com/external_clips/888488/Suitcase_on_a_beach_photo_courtesy_npr_article.jpg?1413183354",
+  "img": ["https://s3.amazonaws.com/external_clips/888488/Suitcase_on_a_beach_photo_courtesy_npr_article.jpg?1413183354"],
   "recent": true
  },
  {
@@ -469,7 +469,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "http://www.taipeitimes.com/images/2014/07/19/p12-140719-girl.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/07/19/p12-140719-girl.jpg"],
   "recent": false
  },
  {
@@ -480,7 +480,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "http://www.taipeitimes.com/images/2014/07/12/p12-140712-s22.jpg",
+  "img": ["http://www.taipeitimes.com/images/2014/07/12/p12-140712-s22.jpg"],
   "recent": false
  },
  {
@@ -491,7 +491,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "https://s3.amazonaws.com/external_clips/749351/NYPL_photo_credit_Huffington_Post_article.jpg?1404734859",
+  "img": ["https://s3.amazonaws.com/external_clips/749351/NYPL_photo_credit_Huffington_Post_article.jpg?1404734859"],
   "recent": false
  },
  {
@@ -502,7 +502,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "https://s3.amazonaws.com/external_clips/888487/Cat_Village-cat1-Taipei-Untapped_Cities-Dana_Ter_article.jpeg?1413183220",
+  "img": ["https://s3.amazonaws.com/external_clips/888487/Cat_Village-cat1-Taipei-Untapped_Cities-Dana_Ter_article.jpeg?1413183220"],
   "recent": false
  },
  {
@@ -513,7 +513,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "https://s3.amazonaws.com/external_clips/696026/open-uri20140531-2472-owljp7_article.jpeg?1401517013",
+  "img": ["https://s3.amazonaws.com/external_clips/696026/open-uri20140531-2472-owljp7_article.jpeg?1401517013"],
   "recent": false
  },
  {
@@ -524,7 +524,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": "http://iyftc1oqf704bytwz45ub151.wpengine.netdna-cdn.com/wp-content/uploads/2014/04/Itaewon-Wine-Seoul-Untapped-Cities-Dana-Ter.jpg",
+  "img": ["http://iyftc1oqf704bytwz45ub151.wpengine.netdna-cdn.com/wp-content/uploads/2014/04/Itaewon-Wine-Seoul-Untapped-Cities-Dana-Ter.jpg"],
   "recent": false
  },
  {
@@ -535,7 +535,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/696016/open-uri20140531-30734-1lahguz_article.jpeg?1401516026",
+  "img": ["https://s3.amazonaws.com/external_clips/696016/open-uri20140531-30734-1lahguz_article.jpeg?1401516026"],
   "recent": false
  },
   {
@@ -557,7 +557,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/696008/open-uri20140531-21418-y0vtjs_article.jpeg?1401515897",
+  "img": ["https://s3.amazonaws.com/external_clips/696008/open-uri20140531-21418-y0vtjs_article.jpeg?1401515897"],
   "recent": true
  },
  {
@@ -568,7 +568,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/696007/open-uri20140531-30734-m7rwbr_article.jpeg?1401515885",
+  "img": ["https://s3.amazonaws.com/external_clips/696007/open-uri20140531-30734-m7rwbr_article.jpeg?1401515885"],
   "recent": false
  },
  {
@@ -579,7 +579,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "https://s3.amazonaws.com/external_clips/695997/open-uri20140531-20880-krdsrg_article.jpeg?1401515690",
+  "img": ["https://s3.amazonaws.com/external_clips/695997/open-uri20140531-20880-krdsrg_article.jpeg?1401515690"],
   "recent": false
  },
  {
@@ -590,7 +590,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "https://s3.amazonaws.com/external_clips/695995/open-uri20140531-20880-1cutiie_article.jpeg?1401515646",
+  "img": ["https://s3.amazonaws.com/external_clips/695995/open-uri20140531-20880-1cutiie_article.jpeg?1401515646"],
   "recent": false
  },
  {
@@ -601,7 +601,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/695990/PM_Article_8_article.jpg?1401516642",
+  "img": ["https://s3.amazonaws.com/external_clips/695990/PM_Article_8_article.jpg?1401516642"],
   "recent": false
  },
  {
@@ -612,7 +612,7 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "https://s3.amazonaws.com/external_clips/695987/PM_Article_6_article.jpg?1401516604",
+  "img": ["https://s3.amazonaws.com/external_clips/695987/PM_Article_6_article.jpg?1401516604"],
   "recent": false
  },
  {
@@ -623,7 +623,7 @@
   "author": "Dana Ter",
   "category": "Entertainment",
   "category_style": "entertainment-story",
-  "img": "https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512",
+  "img": ["https://s3.amazonaws.com/external_clips/695981/PM_Article_1_article.jpg?1401516512"],
   "recent": false
  }
 ]
