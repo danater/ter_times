@@ -83,8 +83,28 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http', '$interval',
 
       return temp;
     }
-
+    
     $scope.enterImage = function(article) {
       $scope.nextImage = $interval(function() {
 
+        if(article.img.length == 1) {
+
+        }
+        else if($scope.imgNr < article.img.length - 1) {
+          $scope.imgNr++;
+        }
+        else {
+          $scope.imgNr = 0;
+        }
+        article.showImg = article.img[$scope.imgNr];
+
+      }, 1500);
+    }
+
+    $scope.leaveImage = function(article) {
+      $interval.cancel($scope.nextImage);
+      $scope.imgNr = 0;
+
+      article.showImg = article.img[$scope.imgNr];
+    }
 }]);
