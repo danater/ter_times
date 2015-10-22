@@ -546,13 +546,13 @@
   "author": "Dana Ter",
   "category": "Arts & Culture",
   "category_style": "arts-story",
-  "img": "https://s3.amazonaws.com/external_clips/696012/open-uri20140531-30734-1mr7t5s_article.jpeg?1401515966",
+  "img": ["https://s3.amazonaws.com/external_clips/696012/open-uri20140531-30734-1mr7t5s_article.jpeg?1401515966"],
   "recent": false
  },
  {
   "title": "Taipei: The World's Newest Indie Music Capital",
   "publisher": "Mic",
-  "link": "http://mic.com/articles/77757/taipei-the-world-s-newest-indie-music-capital",
+  "link": ["http://mic.com/articles/77757/taipei-the-world-s-newest-indie-music-capital"],
   "published": "2013-12-30",
   "author": "Dana Ter",
   "category": "Entertainment",
