@@ -1,5 +1,16 @@
 [
   {
+  "title": "Asia's Hidden Art Hub",
+  "publisher": "EVA Air EnVoyage",
+  "link": "http://bit.ly/1SSAg5I",
+  "published": "2016-02-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["http://www.taipeitimes.com/images/2014/12/14/P12-141214-a1.jpeg"],
+  "recent": false
+ },
+  {
   "title": "Twenty-three Is A Charm",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/01/30/2003638384",
@@ -11,7 +22,7 @@
   "recent": false
  },
   {
-  "title": "Travel Is My Normal State of Being: There Is No 'Home' Or 'Home Culture' To Compare It To ",
+  "title": "Travel Is My Normal State of Being: There Is No 'Home' Or 'Home Culture' To Compare It To",
   "publisher": "Matador Network",
   "link": "http://matadornetwork.com/notebook/travel-normal-state-theres-no-home-home-culture-compare/",
   "published": "2015-12-30",
