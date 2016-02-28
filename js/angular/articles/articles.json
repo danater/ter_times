@@ -1,5 +1,16 @@
 [
   {
+  "title": "Honing the Craft",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/02/27/2003640310",
+  "published": "2016-02-27",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["http://www.taipeitimes.com/images/2016/02/27/p12-160227-Corner%20Office.jpg", "http://www.taipeitimes.com/images/2016/02/27/p12-160227-BeerCheeseAA.jpg"],
+  "recent": false
+ },
+  {
   "title": "The Soul of Seoul in Five Days",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/02/22/2003639923",
