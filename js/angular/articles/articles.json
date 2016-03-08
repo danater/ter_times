@@ -29,7 +29,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": ["http://www.prot.com.tw/images/news/20131227022028.jpg", "http://www.prot.com.tw/images/about_page.jpg"],
+  "img": ["http://www.prot.com.tw/images/news/20131227022028.jpg"],
   "recent": false
  },
   {
@@ -62,7 +62,7 @@
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
-  "img": ["http://www.taipeitimes.com/images/2014/12/14/P12-141214-a5.jpeg", "http://www.taipeitimes.com/images/2014/12/14/P12-141214-a1.jpeg"],
+  "img": ["http://www.taipeitimes.com/images/2014/12/14/P12-141214-a5.jpeg"],
   "recent": true
  },
   {
