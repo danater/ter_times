@@ -231,6 +231,17 @@
   "recent": false
  },
   {
+  "title": "Made in Miaoli",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/10/20/2003630473",
+  "published": "2015-10-20",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2015/10/20/p12-151020-aa1.jpg", "http://www.taipeitimes.com/images/2015/10/20/p12-151020-aa2.jpg"],
+  "recent": false
+ },
+  {
   "title": "Barking Up the Right Tree",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2015/10/07/2003629452",
