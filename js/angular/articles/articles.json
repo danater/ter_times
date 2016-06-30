@@ -8,7 +8,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/13501899_10157026353660627_7669591717653488391_n.jpg?oh=1b0035f022e31553db3addc7dfdfc2b7&oe=57EF528D"],
-  "recent": false
+  "recent": true
  },
     {
   "title": "On Politics and Cat Cafes",
@@ -184,7 +184,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["http://www.taipeitimes.com/images/2014/12/14/P12-141214-a5.jpeg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Twenty-three Is A Charm",
