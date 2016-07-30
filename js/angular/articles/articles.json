@@ -1,5 +1,27 @@
 [
     {
+  "title": "New York's Art Hotspots",
+  "publisher": "EVA Air EnVoyage August 2016 issue, 'Art Capitals' column",
+  "link": "bit.ly/2ahsdNY",
+  "published": "2016-08-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13248609_10157155534245627_161019272102282404_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13765953_10157155534265627_3359926183372027058_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13708291_10157155534210627_2891453432428899398_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13667998_10157155534450627_7518468004345324618_o.jpg"],
+  "recent": false
+ },
+    {
+  "title": "Book Review: Masked Dolls",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/07/23/2003651596",
+  "published": "2016-07-23",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2016/07/23/p14-160723-book.jpg"],
+  "recent": false
+ },
+    {
   "title": "Hunting for Beaches in Hong Kong",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/07/13/2003650917",
