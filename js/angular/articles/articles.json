@@ -1,5 +1,16 @@
 [
     {
+  "title": "Life, Liberty and the Digital Arms Race",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/16/2003653211",
+  "published": "2016-08-16",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2016/08/16/p13-160816-sketch.jpg", "http://www.taipeitimes.com/images/2016/08/16/p13-160816-wifi.jpg"],
+  "recent": false
+ },
+    {
   "title": "Duel to the Death...Sort Of",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/10/2003652809",
