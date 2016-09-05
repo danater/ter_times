@@ -19,7 +19,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14124536_10157317029945627_3274327867882585484_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14207660_10157317029885627_3451705290517255813_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14207780_10157317029950627_6374899805958218666_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14125074_10157317030305627_9154676242796516350_o.jpg"],
-  "recent": false
+  "recent": true
  },
     {
   "title": "History Meets Modernity in Singapore",
@@ -173,7 +173,7 @@
   "category": "Arts & Culture",
   "category_style": "arts-story",
   "img": ["http://www.taipeitimes.com/images/2016/06/22/P12-160622-01HH.jpg", "http://www.taipeitimes.com/images/2016/06/22/P12-160622-04.jpg", "http://www.taipeitimes.com/images/2016/06/22/P12-160622-05.jpg"],
-  "recent": false
+  "recent": true
  },
    {
   "title": "Humble Homebrewer to Hardcore Hitter",
@@ -514,7 +514,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["http://www.taipeitimes.com/images/2015/08/19/P12-150819-a.jpg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Restaurant Review: Nola Kitchen",
