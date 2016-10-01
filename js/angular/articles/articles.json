@@ -1,5 +1,16 @@
 [
      {
+  "title": "The Next Wave",
+  "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Oct/Nov 2016 issue",
+  "link": "http://bit.ly/2dfgZz2",
+  "published": "2016-10-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14500490_10157460739250627_2885959272555332425_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14480501_10157460739305627_6710855154600280918_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14468628_10157460739310627_3280817723012674550_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14468447_10157460739565627_4645138068509193944_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14556575_10157460739585627_1543539415652479483_o.jpg"],
+  "recent": true
+ },
+     {
   "title": "Pincer de résistance",
   "publisher": "Philippine Airlines Mabuhay October 2016 issue",
   "link": "http://bit.ly/2dNy8P0",
@@ -162,7 +173,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13248609_10157155534245627_161019272102282404_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13765953_10157155534265627_3359926183372027058_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13708291_10157155534210627_2891453432428899398_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13667998_10157155534450627_7518468004345324618_o.jpg"],
-  "recent": false
+  "recent": true
  },
     {
   "title": "Book Review: Masked Dolls",
@@ -294,7 +305,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/12495141_10156678509235627_6890168376373531661_n.jpg?oh=b0a447a1b412f546b4d3d51e66c89d84&oe=57EAD70A"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Yilan's Beer Oasis",
@@ -877,7 +888,7 @@
   "category": "Arts & Culture",
   "category_style": "arts-story",
   "img": ["http://www.taipeitimes.com/images/2014/11/20/p12-141120-p3r.jpg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Out of this World",
