@@ -1,5 +1,16 @@
 [
      {
+  "title": "Book Review: Taiwan 101",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/15/2003657185",
+  "published": "2016-10-15",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2016/10/15/p14-161015-Taiwan%20101%20Vol%20I.jpg", "http://www.taipeitimes.com/images/2016/10/15/p14-161015-Taiwan%20101%20Vol%20II.jpg"],
+  "recent": false
+ },
+     {
   "title": "Five Taipei Hacks",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/12/2003656981",
