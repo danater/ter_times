@@ -1,5 +1,27 @@
 [
      {
+  "title": "Restaurant Review: Heritage Bakery & Cafe",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/22/2003657660",
+  "published": "2016-10-22",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["http://www.taipeitimes.com/images/2016/10/22/p13-161022-aa9.jpg", "http://www.taipeitimes.com/images/2016/10/22/p13-161022-13.jpg"],
+  "recent": false
+ },
+     {
+  "title": "Keeping It Reel",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/20/2003657526",
+  "published": "2016-10-20",
+  "author": "Dana Ter",
+  "category": "Entertainment",
+  "category_style": "entertainment-story",
+  "img": ["http://www.taipeitimes.com/images/2016/10/20/P13-161020-b.jpg"],
+  "recent": false
+ },
+     {
   "title": "Book Review: Taiwan 101",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/15/2003657185",
