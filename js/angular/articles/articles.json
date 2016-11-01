@@ -1,5 +1,16 @@
 [
      {
+  "title": "Seoul: Contemporary Art in the Ancient City",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, Nov 2016 issue, 'Art Capitals' column",
+  "link": "http://bit.ly/2e805g8",
+  "published": "2016-11-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14884576_10157620338175627_1610635528549874884_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14859759_10157620338170627_645731751266875629_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14889739_10157620338165627_5460772870046073924_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14890513_10157620338630627_20489896817185963_o.jpg"],
+  "recent": false
+ },
+     {
   "title": "Restaurant Review: Heritage Bakery & Cafe",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/22/2003657660",
