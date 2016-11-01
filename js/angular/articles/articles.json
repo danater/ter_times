@@ -1,5 +1,16 @@
 [
      {
+  "title": "Exhibitions Uninhibited",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Nov 2016 issue",
+  "link": "http://bit.ly/2f8g7c5",
+  "published": "2016-11-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14918771_10157620866795627_1302863582991928346_o.jpg"],
+  "recent": false
+ },
+     {
   "title": "Seoul: Contemporary Art in the Ancient City",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Nov 2016 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2e805g8",
