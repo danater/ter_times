@@ -32,17 +32,6 @@
   "img": ["http://www.taipeitimes.com/images/2016/11/03/p13-161103-Hsiao%20Yeh.jpg", "http://www.taipeitimes.com/images/2016/11/03/p13-161103-Angelika%20Wang.jpg"],
   "recent": false
  },
-     {
-  "title": "Exhibitions Uninhibited",
-  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Nov 2016 issue",
-  "link": "http://bit.ly/2f8g7c5",
-  "published": "2016-11-01",
-  "author": "Dana Ter",
-  "category": "Travel",
-  "category_style": "travel-story",
-  "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14918771_10157620866795627_1302863582991928346_o.jpg"],
-  "recent": false
- },
       {
   "title": "Taipei's Treasure Trove (translated into Thai)",
   "publisher": "Awesome - in-flight magazine of NokScoot, joint venture between Thailand's Nok Air and Singapore’s Scoot, Nov/Dec 2016 issue",
@@ -52,6 +41,17 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14991026_10157666107620627_840621237943890627_o.jpg", "https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/15025120_10157666107585627_2935389260705785416_o.jpg"],
+  "recent": false
+ },
+      {
+  "title": "Exhibitions Uninhibited",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Nov 2016 issue",
+  "link": "http://bit.ly/2f8g7c5",
+  "published": "2016-11-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/14918771_10157620866795627_1302863582991928346_o.jpg"],
   "recent": false
  },
       {
