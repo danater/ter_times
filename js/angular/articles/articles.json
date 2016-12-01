@@ -1,5 +1,38 @@
 [
       {
+  "title": "Discover Taiwan",
+  "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Dec 2016/Jan 2017 issue",
+  "link": "http://bit.ly/2gH0ueO",
+  "published": "2016-12-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15235725_10157763404755627_7421014190611434114_o.jpg", "https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15272143_10157763404750627_3631640784164747513_o.jpg"],
+  "recent": false
+ },
+      {
+  "title": "How to Cosplay in Taipei",
+  "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Dec 2016/Jan 2017 issue",
+  "link": "http://bit.ly/2gyNxRx",
+  "published": "2016-12-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15235380_10157763310705627_3967907289657472998_o.jpg", "https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15259627_10157763310700627_17166308119257750_o.jpg"],
+  "recent": false
+ },
+      {
+  "title": "The Gangnam Makeover",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2016 issue",
+  "link": "http://bit.ly/2fS7rIX",
+  "published": "2016-12-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15235918_10157763186125627_727525458267281199_o.jpg", "https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/15195905_10157763186110627_5330485404203417201_o.jpg"],
+  "recent": false
+ },
+      {
   "title": "In Search of Authenticity",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/11/22/2003659748",
