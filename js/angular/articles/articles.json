@@ -1,5 +1,16 @@
 [
       {
+  "title": "Artisanal Island",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, Jan 2017 issue, 'Taiwan Travels' column",
+  "link": "http://bit.ly/2iazrc2",
+  "published": "2017-01-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2240713/Artisinal_Island_p38_article.jpg?1483005322"],
+  "recent": false
+ },
+      {
   "title": "Chicago: Ancient Artifacts Meets Conceptual Art",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Jan 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2iHWxIg",
