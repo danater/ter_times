@@ -351,6 +351,17 @@
   "img": ["http://www.taipeitimes.com/images/2016/08/16/p13-160816-sketch.jpg", "http://www.taipeitimes.com/images/2016/08/16/p13-160816-wifi.jpg"],
   "recent": false
  },
+      {
+  "title": "Restaurant Review: Mighty Quinn's Barbeque Taiwan",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/13/2003653011",
+  "published": "2016-08-13",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["http://www.taipeitimes.com/images/2016/08/13/p13-160813-main%20rest%201.jpg"],
+  "recent": false
+ },
     {
   "title": "Duel to the Death...Sort Of",
   "publisher": "Taipei Times",
@@ -449,6 +460,17 @@
   "category_style": "arts-story",
   "img": ["http://www.taipeitimes.com/images/2016/06/22/P12-160622-01HH.jpg", "http://www.taipeitimes.com/images/2016/06/22/P12-160622-04.jpg", "http://www.taipeitimes.com/images/2016/06/22/P12-160622-05.jpg"],
   "recent": true
+ },
+      {
+  "title": "Trouble Brewing",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/06/18/2003648873",
+  "published": "2016-06-18",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["http://www.taipeitimes.com/images/2016/06/18/p12-160618-1.jpg"],
+  "recent": false
  },
    {
   "title": "Humble Homebrewer to Hardcore Hitter",
