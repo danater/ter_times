@@ -8,7 +8,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2240713/Artisinal_Island_p38_article.jpg?1483005322"],
-  "recent": false
+  "recent": true
  },
       {
   "title": "Chicago: Ancient Artifacts Meets Conceptual Art",
@@ -63,7 +63,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2203822/Gangnam_p32-page-001_article.jpg?1480564802"],
-  "recent": false
+  "recent": true
  },
       {
   "title": "Pearl of the Orient: Urban Art in Shanghai",
@@ -393,7 +393,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2010725/NY_art_article.jpg?1469894783"],
-  "recent": true
+  "recent": false
  },
     {
   "title": "Book Review: Masked Dolls",
@@ -547,7 +547,7 @@
   "category": "Food & Drink",
   "category_style": "food-story",
   "img": ["http://www.taipeitimes.com/images/2016/03/26/p12-160326-a1.jpg", "http://www.taipeitimes.com/images/2016/03/26/p12-160326-a3.jpg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "It's A Crapshoot: The Good, the Bad and the Stinky of Travel Writing",
