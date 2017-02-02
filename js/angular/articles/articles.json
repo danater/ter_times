@@ -1,5 +1,16 @@
 [
       {
+  "title": "Dining With A Difference",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Feb 2017 issue",
+  "link": "http://bit.ly/2jZ41n3",
+  "published": "2017-02-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2292994/Seoul_dining_p79_article.jpg?1486036031"],
+  "recent": true
+ },
+      {
   "title": "Discover Taiwan",
   "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Feb/Mar 2017 issue, 'Discover' column",
   "link": "http://bit.ly/2k2DiZw",
@@ -445,8 +456,8 @@
   "link": "http://bit.ly/2aHoNIk",
   "published": "2016-08-01",
   "author": "Dana Ter",
-  "category": "Travel",
-  "category_style": "travel-story",
+  "category": "Food & Drink",
+  "category_style": "food-story",
   "img": ["https://s3.amazonaws.com/external_clips/2012413/Far_Yeast_Movement_p67-page-001_article.jpg?1470051478"],
   "recent": true
  },
@@ -1075,7 +1086,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["http://www.taipeitimes.com/images/2015/03/25/p12-150325-Dulan4.jpg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "It's All About Narrative",
