@@ -1,5 +1,27 @@
 [ 
       {
+  "title": "Uncommonly Tasty",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Mar 2017 issue",
+  "link": "http://bit.ly/2mdHoQd",
+  "published": "2017-03-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2325673/Mabuhay_Poon_Choi_Hong_Kong_Dana_Ter_article.jpg?1488383560"],
+  "recent": false
+ },
+      {
+  "title": "Art History: How Phnom Penh's art scene is moving forward while remembering the past",
+  "publisher": "Silkwinds - in-flight magazine of SilkAir, Mar 2017 issue",
+  "link": "http://bit.ly/2m8kglN",
+  "published": "2017-03-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2325670/Silkwinds_Art_History_Phnom_Penh_Dana_Ter_article.jpg?1488383457"],
+  "recent": false
+ },
+      {
   "title": "Meet the Women Combatting Fat Shaming in Taiwan",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/02/22/2003665459",
