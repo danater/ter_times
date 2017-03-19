@@ -44,6 +44,17 @@
   "recent": false
  },
       {
+  "title": "Restaurant Review: Ja Ho",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2017/02/25/2003665656",
+  "published": "2017-02-25",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["http://www.taipeitimes.com/images/2017/02/25/p13-170225-bb1.jpg"],
+  "recent": false
+ },
+      {
   "title": "Meet the Women Combatting Fat Shaming in Taiwan",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/02/22/2003665459",
@@ -1460,6 +1471,17 @@
   "category": "Entertainment",
   "category_style": "entertainment-story",
   "img": ["https://s3.amazonaws.com/external_clips/696007/open-uri20140531-30734-m7rwbr_article.jpeg?1401515885"],
+  "recent": false
+ },
+  {
+  "title": "How to Talk About the Atomic Bomb",
+  "publisher": "Mic",
+  "link": "https://mic.com/articles/73479/how-to-talk-about-the-atomic-bomb#.pm6uP4b9d",
+  "published": "2013-11-15",
+  "author": "Dana Ter",
+  "category": "Entertainment",
+  "category_style": "entertainment-story",
+  "img": ["https://thumbs.mic.com/MTlmZjYxMWNjMiMvTkw5bjVMX0tSS0U2b2JzeVd2cjdBNVBFMnRBPS8weDIwNTo2MTl4NTk2L2ZpbHRlcnM6cXVhbGl0eSg3MCkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvYTlmN2ZhNzk3OTM0MGM5NGVlNzhjN2FlOWE0OTkxOTQ2ZWZlODViZDcxMzRjOWRlYjJlODk5ZDNiNzM5NTA5ZS5qcGc.jpg"],
   "recent": false
  },
   {
