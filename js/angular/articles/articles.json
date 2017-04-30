@@ -1,5 +1,27 @@
 [
       {
+  "title": "Amsterdam for Art Aficionados",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, May 2017 issue, 'Art Capitals' column",
+  "link": "http://bit.ly/2pjKNxT",
+  "published": "2017-05-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2392401/Amsterdam_p28_article.jpg?1493563855"],
+  "recent": false
+ },
+      {
+  "title": "Dragon-Boat Racing in Taipei",
+  "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, May/June 2017 issue",
+  "link": "http://bit.ly/2oV74yv",
+  "published": "2017-05-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2392398/Dragon_boats_p45_article.jpg?1493562927"],
+  "recent": false
+ },
+      {
   "title": "Steeped in the Past",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Apr 2017 issue",
   "link": "http://bit.ly/2nImjf7",
