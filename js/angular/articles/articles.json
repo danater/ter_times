@@ -1,5 +1,27 @@
 [
       {
+  "title": "The Clack is Back",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, May 2017 issue",
+  "link": "http://bit.ly/2pyEU0i",
+  "published": "2017-05-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2393041/Hong_Kong_mahjong_p24_article.jpg?1493615667"],
+  "recent": false
+ },   
+      {
+  "title": "Out on the Tiles: In the Sichuan capital of Chengdu, mahjong is a popular outdoor pursuit",
+  "publisher": "Silkwinds - in-flight magazine of SilkAir, May 2017 issue",
+  "link": "http://bit.ly/2plK0wi",
+  "published": "2017-05-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2393033/Chengdu_Mahjong_p15_article.jpg?1493615145"],
+  "recent": false
+ },
+      {
   "title": "Sinful Treats: A Revival of Old-School Confections in Taipei",
   "publisher": "Travel in Taiwan, May/June 2017 issue, 'Island Feast' column",
   "link": "http://bit.ly/2oXGANK",
