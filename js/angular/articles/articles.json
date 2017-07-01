@@ -1,5 +1,16 @@
 [
       {
+  "title": "Going Global: Taipei",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, July 2017 cover story",
+  "link": "http://bit.ly/2t18UmL",
+  "published": "2017-07-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2460986/Going_Global_Taipei_cover_page_article.jpg?1498880052"],
+  "recent": true
+ },
+      {
   "title": "Say Cheesus",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, July 2017 issue",
   "link": "http://bit.ly/2swzlgl",
@@ -701,7 +712,7 @@
   "category": "Arts & Culture",
   "category_style": "arts-story",
   "img": ["http://www.taipeitimes.com/images/2016/08/10/p13-160810-photo1.jpg", "http://www.taipeitimes.com/images/2016/08/10/p13-160810-photo2.jpg"],
-  "recent": true
+  "recent": false
  },
     {
   "title": "Far Yeast Movement",
