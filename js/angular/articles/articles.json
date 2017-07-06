@@ -22,6 +22,17 @@
   "recent": false
  },
       {
+  "title": "Discover Daxi",
+  "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, Jul/Aug 2017 issue",
+  "link": "http://bit.ly/2ssgtjv",
+  "published": "2017-07-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2465905/Daxi_p45_article.jpg?1499334175"],
+  "recent": false
+ },
+      {
   "title": "Artisans and Crafts: An Insider’s Guide to Taipei’s New and Old Allure",
   "publisher": "Marriott Traveler",
   "link": "https://traveler.marriott.com/taipei/insiders-guide-to-things-to-do-in-taipei/",
