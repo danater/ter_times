@@ -1,5 +1,16 @@
 [
       {
+  "title": "Exploring Tokyo's Artistic Pulse",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2017 issue, 'Art Capitals' column",
+  "link": "http://bit.ly/2uBLfIP",
+  "published": "2017-08-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2490234/Tokyo_p24_article.jpg?1501236503"],
+  "recent": false
+ },
+      {
   "title": "Going Global: Taipei",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, July 2017 cover story",
   "link": "http://bit.ly/2t18UmL",
