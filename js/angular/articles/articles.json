@@ -1,5 +1,16 @@
 [
       {
+  "title": "Exploring Tokyo's Artistic Pulse",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2017 issue, 'Art Capitals' column",
+  "link": "http://bit.ly/2uBLfIP",
+  "published": "2017-08-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2490234/Tokyo_p24_article.jpg?1501236503"],
+  "recent": false
+ },
+      {
   "title": "Where Food Is A Religion",
   "publisher": "Slate - co-published with Roads & Kingdoms",
   "link": "http://www.slate.com/articles/news_and_politics/roads/2017/07/penang_where_food_is_a_religion.html",
@@ -19,17 +30,6 @@
   "category": "Food & Drink",
   "category_style": "food-story",
   "img": ["http://i2.wp.com/roadsandkingdoms.com/uploads/2017/07/GrandmaPg_CCC-17.jpg?w=2880&zoom=2&quality=75&strip=all", "http://i2.wp.com/roadsandkingdoms.com/uploads/2017/07/GrandmaPg_CCC-11.jpg?w=2880&zoom=2&quality=75&strip=all", "http://i2.wp.com/roadsandkingdoms.com/uploads/2017/07/Koay-Teow-Thng-in-Keat-Seng-Restaurant-Penang-photo-by-Dana-Ter.jpg?w=2880&zoom=2&quality=75&strip=all"],
-  "recent": false
- },
-      {
-  "title": "Exploring Tokyo's Artistic Pulse",
-  "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2017 issue, 'Art Capitals' column",
-  "link": "http://bit.ly/2uBLfIP",
-  "published": "2017-08-01",
-  "author": "Dana Ter",
-  "category": "Travel",
-  "category_style": "travel-story",
-  "img": ["https://s3.amazonaws.com/external_clips/2490234/Tokyo_p24_article.jpg?1501236503"],
   "recent": false
  },
       {
