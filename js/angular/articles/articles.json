@@ -1,5 +1,38 @@
 [
       {
+  "title": "The Blue Brothers",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2017 issue",
+  "link": "http://bit.ly/2vhQ5x9",
+  "published": "2017-08-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2495177/Bromberg_brothers_p34_article.jpg?1501583095"],
+  "recent": false
+ },
+      {
+  "title": "Bangkok Blitz",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2017 issue",
+  "link": "http://bit.ly/2f3wWc1",
+  "published": "2017-08-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2495168/Bangkok_Blitz_article.jpg?1501582683"],
+  "recent": false
+ },
+      {
+  "title": "Close to the Root",
+  "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, Aug 2017 issue",
+  "link": "http://bit.ly/2uekatn",
+  "published": "2017-08-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2495160/Taipei_dining_p45_article.jpg?1501582547"],
+  "recent": true
+ },
+      {
   "title": "Exploring Tokyo's Artistic Pulse",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2uBLfIP",
