@@ -1,4 +1,4 @@
-[
+[ 
       {
   "title": "The Blue Brothers",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2017 issue",
@@ -41,6 +41,17 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2501622/Tokyo_p24_article.jpg?1502003877"],
+  "recent": false
+ },
+      {
+  "title": "9 Historic Port Cities",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2017 issue, 'Around the World' column",
+  "link": "http://bit.ly/2vDIWbt",
+  "published": "2017-08-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/2501666/Port_cities_p32_article.jpg?1502006740"],
   "recent": false
  },
       {
