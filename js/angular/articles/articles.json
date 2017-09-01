@@ -1,5 +1,38 @@
 [ 
       {
+  "title": "Over the Moon",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Sept 2017 issue",
+  "link": "http://bit.ly/2gvSMWF",
+  "published": "2017-09-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1410392/original/Over_the_moon_p30.jpg?1504259748"],
+  "recent": false
+ },
+      {
+  "title": "Phnom Penh city guide",
+  "publisher": "Silkwinds - in-flight magazine of SilkAir, 'Postcards' column, Sept 2017 issue",
+  "link": "http://bit.ly/2eozIFv",
+  "published": "2017-09-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1410387/original/Phnom_Penh_city_guide_p68.jpg?1504258684"],
+  "recent": false
+ },
+      {
+  "title": "Room to Play",
+  "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Hotels' column, Sept 2017 issue",
+  "link": "http://bit.ly/2gozoah",
+  "published": "2017-09-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1410384/original/Play_Design_Hotel_p20.jpg?1504258207"],
+  "recent": false
+ },
+      {
   "title": "The Blue Brothers",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2017 issue",
   "link": "http://bit.ly/2vhQ5x9",
