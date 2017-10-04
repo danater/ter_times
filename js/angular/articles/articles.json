@@ -1,5 +1,16 @@
 [ 
       {
+  "title": "Art for the people",
+  "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Arts' column, Oct 2017 issue",
+  "link": "http://bit.ly/2yGc9jA",
+  "published": "2017-10-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1466754/original/Art_Taipei.jpg?1507046217"],
+  "recent": false
+ },
+      {
   "title": "Toronto: Art and Accessability",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Oct 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2xC5xG4",
