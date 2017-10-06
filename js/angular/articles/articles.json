@@ -1353,6 +1353,17 @@
   "recent": false
  },
   {
+  "title": "Art Exhibition Listings",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2015/09/25/2003628526",
+  "published": "2015-09-25",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2015/09/25/p10-150925-a2.jpg"],
+  "recent": false
+ },
+  {
   "title": "The Art of Slow Walking",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2015/09/14/2003627658",
