@@ -451,6 +451,17 @@
   "recent": false
  },
       {
+  "title": "Art Exhibition Listings",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2017/02/17/2003665136",
+  "published": "2017-02-17",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2017/02/17/p14-170217-Blue%20Thoughts%203%20.jpg"],
+  "recent": false
+ },
+      {
   "title": "Dining With A Difference",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Feb 2017 issue",
   "link": "http://bit.ly/2jZ41n3",
@@ -690,6 +701,17 @@
   "category": "Food & Drink",
   "category_style": "food-story",
   "img": ["http://www.taipeitimes.com/images/2016/10/22/p13-161022-aa9.jpg", "http://www.taipeitimes.com/images/2016/10/22/p13-161022-13.jpg"],
+  "recent": false
+ },
+      {
+  "title": "Art Exhibition Listings",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/21/2003657594",
+  "published": "2016-10-21",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2016/10/21/P14-161021-2.jpg"],
   "recent": false
  },
      {
@@ -1011,6 +1033,17 @@
   "img": ["http://www.taipeitimes.com/images/2016/05/21/p12-160521-4.jpg", "http://www.taipeitimes.com/images/2016/05/21/p12-160521-12.jpg"],
   "recent": false
  },
+  {
+  "title": "Art Exhibition Listings",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/05/13/2003646136",
+  "published": "2016-05-13",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2016/05/13/p10-160513-raid.jpg"],
+  "recent": false
+ },     
    {
   "title": "5 Places to Peruse Art in Phnom Penh",
   "publisher": "Taipei Times",
