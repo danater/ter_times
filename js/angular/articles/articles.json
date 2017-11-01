@@ -1,5 +1,16 @@
 [ 
       {
+  "title": "A Day in the Country: Penang's bucolic region of Balik Pulau offers a break from the city",
+  "publisher": "Silkwinds - in-flight magazine of SilkAir, Nov 2017 issue",
+  "link": "http://bit.ly/2xH8dPa",
+  "published": "2017-11-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://pbs.twimg.com/media/DNhRB3KU8AA81Bo.jpg:large"],
+  "recent": false
+ },
+      {
   "title": "Siem Reap city guide",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, 'Postcards' column, Nov 2017 issue",
   "link": "http://bit.ly/2znsGgn",
@@ -22,7 +33,7 @@
   "recent": false
  },
       {
-  "title": "Art for the people",
+  "title": "Art for the People",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Arts' column, Oct 2017 issue",
   "link": "http://bit.ly/2yGc9jA",
   "published": "2017-10-01",
