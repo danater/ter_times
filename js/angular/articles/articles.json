@@ -1,5 +1,16 @@
 [ 
       {
+  "title": "Designing the City",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Nov 2017 issue",
+  "link": "http://bit.ly/2xIufBb",
+  "published": "2017-11-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://pbs.twimg.com/media/DNhV7CTUMAAVpJO.jpg:large"],
+  "recent": true
+ },
+      {
   "title": "A Day in the Country: Penang's bucolic region of Balik Pulau offers a break from the city",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, Nov 2017 issue",
   "link": "http://bit.ly/2xH8dPa",
@@ -371,7 +382,7 @@
   "category": "Food & Drink",
   "category_style": "food-story",
   "img": ["https://s3.amazonaws.com/external_clips/2360731/Tea_p65_article.jpg?1491061297"],
-  "recent": true
+  "recent": false
  },
       {
   "title": "Something To Sprout About",
