@@ -404,7 +404,7 @@
   "category": "Food & Drink",
   "category_style": "food-story",
   "img": ["https://s3.amazonaws.com/external_clips/2360731/Tea_p65_article.jpg?1491061297"],
-  "recent": false
+  "recent": true
  },
       {
   "title": "Something To Sprout About",
@@ -613,7 +613,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2240713/Artisinal_Island_p38_article.jpg?1483005322"],
-  "recent": true
+  "recent": false
  },
       {
   "title": "Chicago: Ancient Artifacts Meets Conceptual Art",
