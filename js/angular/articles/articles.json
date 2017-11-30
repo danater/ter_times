@@ -1,5 +1,16 @@
 [ 
       {
+  "title": "Bangkok's Best Art Galleries",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, Dec 2017 issue, 'Art Capitals' column",
+  "link": "http://bit.ly/2BnjKES",
+  "published": "2017-12-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1576423/original/Bangkok_art_p36.jpg?1512051153"],
+  "recent": false
+ },
+      {
   "title": "Cozy Up on the Coast: Asia's Best Romantic Beach Getaways",
   "publisher": "Marriott Traveler",
   "link": "http://traveler.marriott.com/couples-and-family/cozy-coast-asias-best-romantic-beach-getaways/",
