@@ -1,5 +1,16 @@
 [ 
       {
+  "title": "New York Specialty Coffee Guide",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
+  "link": "http://bit.ly/2noJONT",
+  "published": "2017-12-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1580452/original/NYC_coffee_p133-1.jpg?1512297815", "https://s3.amazonaws.com/external_clips/attachments/1580451/original/NYC_coffee_p134-1.jpg?1512297813"],
+  "recent": false
+ },
+      {
   "title": "Kyoto's Culinary Calling Cards",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
   "link": "http://bit.ly/2Aru13D",
