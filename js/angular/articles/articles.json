@@ -1,5 +1,17 @@
 [ 
       {
+  "title": "Osaka Specialty Coffee Guide",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
+  "link": "http://bit.ly/2BF9EiT",
+  "published": "2017-12-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1588176/original/Osaka_coffee_p137-1.jpg?1512639915", "https://s3.amazonaws.com/external_clips/attachments/1588175/original/Osaka_coffee_p138-1.jpg?1512639914"],
+  "recent": false
+ },
+   
+      {
   "title": "New York Specialty Coffee Guide",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
   "link": "http://bit.ly/2noJONT",
