@@ -1,5 +1,49 @@
 [ 
       {
+  "title": "Take on the Swells of Yilan",
+  "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 2018 Travel Guide, Jan 2018 issue",
+  "link": "http://bit.ly/2qj4Kaw",
+  "published": "2018-01-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1630550/original/Yilan_surf_p39-1.jpg?1514911018"],
+  "recent": false
+ },
+      {
+  "title": "Period Pieces",
+  "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Hotels' column, Jan 2018 issue",
+  "link": "http://bit.ly/2qiAhcF",
+  "published": "2018-01-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1630522/original/Le_Meridien_p14-1.jpg?1514910509"],
+  "recent": false
+ },
+      {
+  "title": "Turning a New Leaf",
+  "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Wine + Dine' column, Jan 2018 issue",
+  "link": "http://bit.ly/2lHtxAo",
+  "published": "2018-01-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1630506/original/Tea_p10-1.jpg?1514910051"],
+  "recent": false
+ },
+      {
+  "title": "Phnom Penh city guide",
+  "publisher": "Silkwinds - in-flight magazine of SilkAir, 'Postcards' column, Jan 2018 issue",
+  "link": "http://bit.ly/2qcNWln",
+  "published": "2018-01-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1630501/original/Phnom_Penh_p87.jpg?1514909696"],
+  "recent": false
+ },
+      {
   "title": "Past and Present Converge at Art Basel",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/12/20/2003684295",
