@@ -1,5 +1,16 @@
 [ 
        {
+  "title": "Made in Taiwan",
+  "publisher": "SilverKris - in-flight magazine of Singapore Airlines, Jan 2018 issue",
+  "link": "http://bit.ly/2oHgjE9",
+  "published": "2018-03-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1738404/original/pp60-61.jpg?1519926384"],
+  "recent": true
+ },
+       {
   "title": "Coral Fight",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, March 2018 issue",
   "link": "http://bit.ly/2HSHmFo",
@@ -1757,7 +1768,7 @@
   "category": "Food & Drink",
   "category_style": "food-story",
   "img": ["http://roadsandkingdoms.com/uploads/2015/07/Busan-3-640x490.jpg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Restaurant Review: Brookhurst Seafood Bar",
