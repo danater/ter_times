@@ -1,5 +1,16 @@
 [ 
        {
+  "title": "Coral Fight",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, March 2018 issue",
+  "link": "bit.ly/2HSHmFo",
+  "published": "2018-03-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1737407/original/Corals_p84-1.jpg?1519897097", "https://s3.amazonaws.com/external_clips/attachments/1737404/original/Corals_p85-1.jpg?1519897024"],
+  "recent": true
+ },
+       {
   "title": "Chicken Tocino in Guam",
   "publisher": "Roads & Kingdoms",
   "link": "http://roadsandkingdoms.com/2018/chicken-tocino-in-guam/",
@@ -1130,7 +1141,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2066346/glass_art_p52_article.jpg?1472727918"],
-  "recent": true
+  "recent": false
  },
     {
   "title": "History Meets Modernity in Singapore",
