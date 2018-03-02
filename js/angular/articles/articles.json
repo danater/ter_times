@@ -1,5 +1,5 @@
 [ 
-      {
+  {
   "title": "Made in Taiwan",
   "publisher": "SilverKris - in-flight magazine of Singapore Airlines, Jan 2018 issue",
   "link": "http://bit.ly/2oHgjE9",
@@ -10,7 +10,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1738473/original/p60.jpg?1519928067", "https://s3.amazonaws.com/external_clips/attachments/1738471/original/p61.jpg?1519928026"],
   "recent": true
  },
-      {
+  {
   "title": "Coral Fight",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, March 2018 issue",
   "link": "http://bit.ly/2HSHmFo",
@@ -21,7 +21,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1737407/original/Corals_p84-1.jpg?1519897097", "https://s3.amazonaws.com/external_clips/attachments/1737404/original/Corals_p85-1.jpg?1519897024"],
   "recent": true
  },
-      {
+  {
   "title": "High-Brow and High-Tech,
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, March 2018 issue",
   "link": "http://bit.ly/2F7YB3U",
@@ -32,7 +32,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1739838/original/HK_art_p28-1.jpg?1519983935"],
   "recent": false
  },
-      {
+  {
   "title": "Chicken Tocino in Guam",
   "publisher": "Roads & Kingdoms",
   "link": "http://roadsandkingdoms.com/2018/chicken-tocino-in-guam/",
@@ -43,7 +43,7 @@
   "img": ["https://i2.wp.com/roadsandkingdoms.com/uploads/2018/02/Chicken-tocino-Guam-photo-by-Jose-Castro.jpg?zoom=2.200000047683716&fit=680%2C510"],
   "recent": false
  },
-      {
+  {
   "title": "The World's Best Food Festivals",
   "publisher": "Ebookers",
   "link": "http://www.ebookers.com/travel-blog/ebookers/worlds-best-food-festivals/",
@@ -54,7 +54,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1708181/original/open-uri20180214-11734-2dbuye?1518584205", "https://s3.amazonaws.com/external_clips/attachments/1708180/original/open-uri20180214-11734-5uvlf0?1518584204"],
   "recent": false
  },
-      {
+  {
   "title": "Blast from the Past: Restaurants such as Sen Sakana in New York are bringing back Nikkei",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Feb 2018 issue",
   "link": "http://bit.ly/2nt3bC6",
@@ -65,7 +65,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1685660/original/p26_Nikkei_cuisine-1.jpg?1517469421"],
   "recent": false
  },
-      {
+  {
   "title": "Go East: 3 Asian Art Hotels",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Feb 2018 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2DKqNfK",
@@ -76,7 +76,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1678249/original/Art_hotels_p44.jpg?1517194992"],
   "recent": false
  },
-      {
+  {
   "title": "Winter in Seoul: What to See and Do When the Chill Sets In",
   "publisher": "Marriott Traveler",
   "link": "http://traveler.marriott.com/seoul/things-to-do-in-seoul-in-winter/",
@@ -87,7 +87,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1683636/original/GI_159017560_HwacheonIceFest_WomanFish.jpg?1517386424"],
   "recent": false
  },
-      {
+  {
   "title": "The World's Most Romantic Travel Experiences",
   "publisher": "Ebookers",
   "link": "http://www.ebookers.com/travel-blog/couple/7-impossibly-romantic-travel-experiences",
@@ -98,7 +98,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1673433/original/open-uri20180125-16607-m4o1js?1516874977", "https://s3.amazonaws.com/external_clips/attachments/1673434/original/open-uri20180125-16607-17pe77u?1516874978"],
   "recent": false
  },
-      {
+  {
   "title": "Soak in the Serenity at These Top 10 Asia Spas",
   "publisher": "MUSE & SEE",
   "link": "https://www.museandsee.com/single-post/2018/01/10/Top-10-Asia-Spas",
@@ -109,7 +109,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1650066/original/ESPA_Onsen-style_Pool.jpg?1515849142", "https://s3.amazonaws.com/external_clips/attachments/1649955/original/ESPA_Hammam_-_Interior.jpg?1515833355"],
   "recent": false
  },
-      {
+  {
   "title": "Take on the Swells of Yilan",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 2018 Travel Guide, Jan 2018 issue",
   "link": "http://bit.ly/2qj4Kaw",
@@ -120,7 +120,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1630550/original/Yilan_surf_p39-1.jpg?1514911018"],
   "recent": false
  },
-      {
+  {
   "title": "Period Pieces",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Hotels' column, Jan 2018 issue",
   "link": "http://bit.ly/2qiAhcF",
@@ -131,7 +131,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1630522/original/Le_Meridien_p14-1.jpg?1514910509"],
   "recent": false
  },
-      {
+  {
   "title": "Turning a New Leaf",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Wine + Dine' column, Jan 2018 issue",
   "link": "http://bit.ly/2lHtxAo",
@@ -142,7 +142,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1630506/original/Tea_p10-1.jpg?1514910051"],
   "recent": false
  },
-      {
+  {
   "title": "Phnom Penh city guide",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, 'Postcards' column, Jan 2018 issue",
   "link": "http://bit.ly/2qcNWln",
@@ -153,7 +153,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1630501/original/Phnom_Penh_p87.jpg?1514909696"],
   "recent": false
  },
-      {
+  {
   "title": "Past and Present Converge at Art Basel",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/12/20/2003684295",
@@ -164,7 +164,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/12/20/P13-171220-Hsu%20Yin-ling.jpg", "http://www.taipeitimes.com/images/2017/12/20/P13-171220-Si%20So%20Mi.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Le Meridien Seoul – Channeling Hollywood and the Golden Age of Air Travel",
   "publisher": "MUSE & SEE",
   "link": "https://www.museandsee.com/single-post/2017/12/14/Le-Meridien-Seoul-Dana-Ter",
@@ -175,7 +175,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1609603/original/Le_Meridien_Seoul_Classic_Room.jpg?1513673753", "https://s3.amazonaws.com/external_clips/attachments/1609604/original/Le_Meridien_Seoul_Arrival_Art.jpg?1513673792"],
   "recent": false
  },
-      {
+  {
   "title": "Osaka Specialty Coffee Guide",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
   "link": "http://bit.ly/2kynd0p",
@@ -186,7 +186,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1588176/original/Osaka_coffee_p137-1.jpg?1512639915", "https://s3.amazonaws.com/external_clips/attachments/1588175/original/Osaka_coffee_p138-1.jpg?1512639914"],
   "recent": false
  },
-      {
+  {
   "title": "New York Specialty Coffee Guide",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
   "link": "http://bit.ly/2noJONT",
@@ -197,7 +197,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1580452/original/NYC_coffee_p133-1.jpg?1512297815", "https://s3.amazonaws.com/external_clips/attachments/1580451/original/NYC_coffee_p134-1.jpg?1512297813"],
   "recent": false
  },
-      {
+  {
   "title": "Kyoto's Culinary Calling Cards",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
   "link": "http://bit.ly/2Aru13D",
@@ -208,7 +208,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1580450/original/Kyoto_kaiseki_p26.jpg?1512295808"],
   "recent": false
  },
-      {
+  {
   "title": "Nomads No More",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2017 issue",
   "link": "http://bit.ly/2ArgIAe",
@@ -219,7 +219,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1580444/original/Nomads_no_more_p20.jpg?1512295228"],
   "recent": false
  },
-      {
+  {
   "title": "Bangkok's Best Art Galleries",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Dec 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2BnjKES",
@@ -230,7 +230,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1576423/original/Bangkok_art_p36.jpg?1512051153"],
   "recent": false
  },
-      {
+  {
   "title": "Live Like a Princess – Or a “Hi-so” – in Bangkok’s 98 Wireless",
   "publisher": "MUSE & SEE",
   "link": "https://www.museandsee.com/single-post/2017/11/29/98-Wireless-Bangkok",
@@ -241,7 +241,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1577874/original/98_Wireless_exterior.jpg?1512098230", "https://s3.amazonaws.com/external_clips/attachments/1577873/original/Low-res_Sansiri_98W_Interior_-_98_Wireless.jpg?1512097773"],
   "recent": false
  },
-      {
+  {
   "title": "Cozy Up on the Coast: Asia's Best Romantic Beach Getaways",
   "publisher": "Marriott Traveler",
   "link": "http://traveler.marriott.com/couples-and-family/cozy-coast-asias-best-romantic-beach-getaways/",
@@ -252,7 +252,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1559526/original/GI_472991212_PhuQuocSea.jpg?1511268962"],
   "recent": false
  },
-      {
+  {
   "title": "Koon Wai Bong: Naming and Framing nature",
   "publisher": "CoBo Social",
   "link": "http://www.cobosocial.com/dossiers/koon-wai-bong-naming-and-framing-nature/",
@@ -263,7 +263,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1542919/original/open-uri20171113-18701-xcj7en?1510551475", "https://s3.amazonaws.com/external_clips/attachments/1542917/original/open-uri20171113-18701-p4num5?1510551471"],
   "recent": false
  },
-      {
+  {
   "title": "Designing the City",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Nov 2017 issue",
   "link": "http://bit.ly/2xIufBb",
@@ -274,7 +274,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1521569/original/Taipei_design_feature-spread.jpg?1509527542"],
   "recent": true
  },
-      {
+  {
   "title": "A Day in the Country: Penang's bucolic region of Balik Pulau offers a break from the city",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, Nov 2017 issue",
   "link": "http://bit.ly/2xH8dPa",
@@ -285,7 +285,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1541718/original/open-uri20171112-15849-65tw0e?1510494043", "https://s3.amazonaws.com/external_clips/attachments/1541717/original/open-uri20171112-15849-y9nt30?1510494042", "https://s3.amazonaws.com/external_clips/attachments/1541716/original/open-uri20171112-15849-15bl5n7?1510494042"],
   "recent": false
  },
-      {
+  {
   "title": "Siem Reap city guide",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, 'Postcards' column, Nov 2017 issue",
   "link": "http://bit.ly/2znsGgn",
@@ -296,7 +296,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1521567/original/Siem_Reap_page72.jpg?1509527444"],
   "recent": false
  },
-      {
+  {
   "title": "3 Out-of-the-box Art Spaces in Taipei",
   "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, Nov/Dec 2017 issue",
   "link": "http://bit.ly/2zgOkmj",
@@ -307,7 +307,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1529111/original/1._Taipei_art_p43-page-001.jpg?1509961059"],
   "recent": false
  },
-      {
+  {
   "title": "Haute Cuisine Taiwan-Style",
   "publisher": "Travel in Taiwan, Nov/Dec 2017 issue, 'Island Feast' column",
   "link": "https://taiwaneverything.cc/2017/10/19/taiwanese-cuisine/",
@@ -318,7 +318,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1529159/original/Haute_cuisine.jpg?1509964931"],
   "recent": false
  },
-      {
+  {
   "title": "20 Things to See, Eat and Do in Penang",
   "publisher": "Time Out Hong Kong",
   "link": "https://www.timeout.com/hong-kong/travel/20-things-to-see-eat-and-do-in-penang",
@@ -329,7 +329,7 @@
   "img": ["https://media.timeout.com/images/104085482/1372/772/image.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Art for the People",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Arts' column, Oct 2017 issue",
   "link": "http://bit.ly/2yGc9jA",
@@ -340,7 +340,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1466754/original/Art_Taipei.jpg?1507046217"],
   "recent": false
  },
-      {
+  {
   "title": "Toronto: Art and Accessability",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Oct 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2xC5xG4",
@@ -351,7 +351,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1458800/original/Toronto_p32.jpg?1506668691"],
   "recent": false
  },
-      {
+  {
   "title": "TenRen’s Tea — Highest-Quality Tea and Cuisine (Online advertorial)",
   "publisher": "Travel in Taiwan",
   "link": "https://taiwaneverything.cc/2017/09/25/tenren-tea/",
@@ -362,7 +362,7 @@
   "img": ["https://taiwaneverything.cc/wp-content/uploads/2017/09/18-2-770x430.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "After (Business) Hours: Eat Your Way Through Singapore's Hawker Centers",
   "publisher": "Marriott Traveler",
   "link": "http://traveler.marriott.com/eat-and-drink/singapore-hawker-centers/",
@@ -373,7 +373,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1438171/original/Singapore_hawker_center_food.jpg?1505924310"],
   "recent": false
  },
-      {
+  {
   "title": "Over the Moon",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Sept 2017 issue",
   "link": "http://bit.ly/2gvSMWF",
@@ -384,7 +384,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1410392/original/Over_the_moon_p30.jpg?1504259748"],
   "recent": false
  },
-      {
+  {
   "title": "Phnom Penh city guide",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, 'Postcards' column, Sept 2017 issue",
   "link": "http://bit.ly/2eozIFv",
@@ -395,7 +395,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1410387/original/Phnom_Penh_city_guide_p68.jpg?1504258684"],
   "recent": false
  },
-      {
+  {
   "title": "Room to Play",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, 'Hotels' column, Sept 2017 issue",
   "link": "http://bit.ly/2gozoah",
@@ -406,7 +406,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1410384/original/Play_Design_Hotel_p20.jpg?1504258207"],
   "recent": false
  },
-      {
+  {
   "title": "4 Brisbane Galleries",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Sept 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2gtV7NP",
@@ -417,7 +417,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1412058/original/Brisbane_art_p44.jpg?1504428882"],
   "recent": false
  },
-      {
+  {
   "title": "The Blue Brothers",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2017 issue",
   "link": "http://bit.ly/2vhQ5x9",
@@ -428,7 +428,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2495177/Bromberg_brothers_p34_article.jpg?1501583095"],
   "recent": false
  },
-      {
+  {
   "title": "Bangkok Blitz",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2017 issue",
   "link": "http://bit.ly/2f3wWc1",
@@ -439,7 +439,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2495168/Bangkok_Blitz_article.jpg?1501582683"],
   "recent": false
  },
-      {
+  {
   "title": "Close to the Root",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, Aug 2017 issue",
   "link": "http://bit.ly/2uekatn",
@@ -450,7 +450,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2495160/Taipei_dining_p45_article.jpg?1501582547"],
   "recent": true
  },
-      {
+  {
   "title": "Exploring Tokyo's Artistic Pulse",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2uvPYKt",
@@ -461,7 +461,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2501622/Tokyo_p24_article.jpg?1502003877"],
   "recent": false
  },
-      {
+  {
   "title": "9 Historic Port Cities",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2017 issue, 'Around the World' column",
   "link": "http://bit.ly/2vDIWbt",
@@ -472,7 +472,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2501666/Port_cities_p32_article.jpg?1502006740"],
   "recent": false
  },
-      {
+  {
   "title": "Penang: Where Food Is a Religion",
   "publisher": "Slate - co-published with Roads & Kingdoms",
   "link": "http://www.slate.com/articles/news_and_politics/roads/2017/07/penang_where_food_is_a_religion.html",
@@ -483,7 +483,7 @@
   "img": ["http://www.slate.com/content/dam/slate/articles/news_and_politics/roads/2017/07/Penang/170731_RK_Penang-25.jpg.CROP.promo-xlarge2.jpg", "http://www.slate.com/content/dam/slate/articles/news_and_politics/roads/2017/07/Penang/170731_RK_Penang-12.jpg.CROP.promo-xlarge2.jpg", "http://www.slate.com/content/dam/slate/articles/news_and_politics/roads/2017/07/Penang/170731_RK_Penang-22.jpg.CROP.promo-xlarge2.jpg"],
   "recent": true
  },
-      {
+  {
   "title": "Penang: Where Food Is a Religion",
   "publisher": "Roads & Kingdoms - co-published with Slate",
   "link": "http://roadsandkingdoms.com/2017/penang-food/",
@@ -494,7 +494,7 @@
   "img": ["http://i2.wp.com/roadsandkingdoms.com/uploads/2017/07/GrandmaPg_CCC-17.jpg?w=2880&zoom=2&quality=75&strip=all", "http://i2.wp.com/roadsandkingdoms.com/uploads/2017/07/GrandmaPg_CCC-11.jpg?w=2880&zoom=2&quality=75&strip=all", "http://i2.wp.com/roadsandkingdoms.com/uploads/2017/07/Koay-Teow-Thng-in-Keat-Seng-Restaurant-Penang-photo-by-Dana-Ter.jpg?w=2880&zoom=2&quality=75&strip=all"],
   "recent": false
  },
-      {
+  {
   "title": "Going Global: Taipei",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, July 2017 cover story",
   "link": "http://bit.ly/2t18UmL",
@@ -505,7 +505,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2460986/Going_Global_Taipei_cover_page_article.jpg?1498880052"],
   "recent": false
  },
-      {
+  {
   "title": "Say Cheesus",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, July 2017 issue",
   "link": "http://bit.ly/2swzlgl",
@@ -516,7 +516,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2460966/Cheesus_p26_article.jpg?1498877398"],
   "recent": false
  },
-      {
+  {
   "title": "Discover Daxi",
   "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, Jul/Aug 2017 issue",
   "link": "http://bit.ly/2ssgtjv",
@@ -527,7 +527,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2465905/Daxi_p45_article.jpg?1499334175"],
   "recent": false
  },
-      {
+  {
   "title": "An Insider’s Guide to Taipei’s New and Old Allure",
   "publisher": "Jetsetter (original article on Marriott Traveler)",
   "link": "https://www.jetsetter.com/magazine/1564/insiders-guide-to-Taipei",
@@ -538,7 +538,7 @@
   "img": ["https://wa4.jetcdn.com/photos/taipei/-_fm9xxV/music-flower-food-ground.jpeg?w=684&h=498&dpr=2"],
   "recent": false
  },
-      {
+  {
   "title": "Artisans and Crafts: An Insider’s Guide to Taipei’s New and Old Allure",
   "publisher": "Marriott Traveler",
   "link": "https://traveler.marriott.com/taipei/insiders-guide-to-things-to-do-in-taipei/",
@@ -549,7 +549,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2428233/Hoshing_Chef_TaipeiPastry2_-_Copy_article.jpg?1496427718"],
   "recent": false
  },
-      {
+  {
   "title": "A Perfect Day in Taipei",
   "publisher": "Aspire - in-flight magazine of Hong Kong Airlines, June 2017 issue",
   "link": "http://bit.ly/2rdsAmv",
@@ -560,7 +560,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2426450/Perfect_day_in_Taipei_p62_article.jpg?1496289424"],
   "recent": false
  },
-      {
+  {
   "title": "Uncovering San Francisco's Creative Spaces",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, June 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2r6phNM",
@@ -571,7 +571,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2423863/SF_p26_article.jpg?1496128163"],
   "recent": false
  },
-      {
+  {
   "title": "Crafty Commerce: Why Taipei Is an Indie Shopper’s Paradise",
   "publisher": "Marriott Traveler",
   "link": "http://traveler.marriott.com/culture-and-style/crafty-commerce-why-taipei-is-an-indie-shoppers-paradise",
@@ -582,7 +582,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2420545/MBMore_InStoreDecor_-_Copy_article.jpg?1495766778"],
   "recent": false
  },
-      {
+  {
   "title": "Meet the Taipei Brewer Transforming the City’s View of Craft Beer",
   "publisher": "Marriott Traveler",
   "link": "http://traveler.marriott.com/eat-and-drink/taiwan-beer-jim-and-dads-brewing-company",
@@ -593,7 +593,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2420544/Jim_Warehouse_article.jpg?1495766960"],
   "recent": false
  },
-      {
+  {
   "title": "Book Review: Bu San Bu Si",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/05/03/2003669853",
@@ -604,7 +604,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/05/03/p13-170503-book.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "The Clack is Back",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, May 2017 issue",
   "link": "http://bit.ly/2pyEU0i",
@@ -615,7 +615,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2393041/Hong_Kong_mahjong_p24_article.jpg?1493615667"],
   "recent": false
  },   
-      {
+  {
   "title": "Out on the Tiles: In the Sichuan capital of Chengdu, mahjong is a popular outdoor pursuit",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, May 2017 issue",
   "link": "http://bit.ly/2plK0wi",
@@ -626,7 +626,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2393033/Chengdu_Mahjong_p15_article.jpg?1493615145"],
   "recent": false
  },
-      {
+  {
   "title": "Sinful Treats: A Revival of Old-School Confections in Taipei",
   "publisher": "Travel in Taiwan, May/June 2017 issue, 'Island Feast' column",
   "link": "http://bit.ly/2oXGANK",
@@ -637,7 +637,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2392433/Sinful_Treats_p40_article.jpg?1493568461"],
   "recent": false
  },
-      {
+  {
   "title": "Amsterdam for Art Aficionados",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, May 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2pjKNxT",
@@ -648,7 +648,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2392401/Amsterdam_p28_article.jpg?1493563855"],
   "recent": false
  },
-      {
+  {
   "title": "Dragon-Boat Racing in Taipei",
   "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, May/June 2017 issue",
   "link": "http://bit.ly/2oV74yv",
@@ -659,7 +659,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2392398/Dragon_boats_p45_article.jpg?1493562927"],
   "recent": false
  },
-      {
+  {
   "title": "Steeped in the Past",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Apr 2017 issue",
   "link": "http://bit.ly/2nImjf7",
@@ -670,7 +670,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2360731/Tea_p65_article.jpg?1491061297"],
   "recent": true
  },
-      {
+  {
   "title": "Something To Sprout About",
   "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Apr/May 2017 cover story",
   "link": "http://bit.ly/2nqscMd",
@@ -681,7 +681,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2360703/Scoot_AprMay_2017_cover_article.jpg?1491054916"],
   "recent": true
  },
-      {
+  {
   "title": "Discover Taiwan",
   "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Apr/May 2017 issue, 'Discover' column",
   "link": "http://bit.ly/2nHWADH",
@@ -692,7 +692,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2360700/Scoot_AprMay_2017_p72_article.jpg?1491053284"],
   "recent": false
  },
-      {
+  {
   "title": "Multisensory Art Experiences in Hong Kong",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Apr 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2onJQlC",
@@ -703,7 +703,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2359279/HK_art_p32_article.jpg?1490935427"],
   "recent": false
  },
-      {
+  {
   "title": "LARPing Around",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/03/28/2003667600",
@@ -714,7 +714,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/03/28/p13-170328-666.jpg", "http://www.taipeitimes.com/images/2017/03/28/p13-170328-777.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Interview with Joss Stone: Spreading Soulful Vibes and Happiness",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/03/02/2003665961",
@@ -725,7 +725,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/03/02/p13-170302-interview.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Uncommonly Tasty",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Mar 2017 issue",
   "link": "http://bit.ly/2mdHoQd",
@@ -736,7 +736,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2325673/Mabuhay_Poon_Choi_Hong_Kong_Dana_Ter_article.jpg?1488383560"],
   "recent": false
  },
-      {
+  {
   "title": "Art History: How Phnom Penh's art scene is moving forward while remembering the past",
   "publisher": "Silkwinds - in-flight magazine of SilkAir, Mar 2017 issue",
   "link": "http://bit.ly/2m8kglN",
@@ -747,7 +747,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2325670/Silkwinds_Art_History_Phnom_Penh_Dana_Ter_article.jpg?1488383457"],
   "recent": false
  },
-      {
+  {
   "title": "Southern Taiwan's 'Eternal Spring",
   "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, Mar/Apr 2017 issue",
   "link": "http://bit.ly/2mpz401",
@@ -758,7 +758,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2329415/Les_Iles_Hengchun_p47_article.jpg?1488641856"],
   "recent": false
  },
-      {
+  {
   "title": "Restaurant Review: Ja Ho",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/02/25/2003665656",
@@ -769,7 +769,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/02/25/p13-170225-bb1.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Meet the Women Combatting Fat Shaming in Taiwan",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/02/22/2003665459",
@@ -780,7 +780,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/02/22/P13-170222-2.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Art Exhibition Listings",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/02/17/2003665136",
@@ -791,7 +791,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/02/17/p14-170217-Blue%20Thoughts%203%20.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Dining With A Difference",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Feb 2017 issue",
   "link": "http://bit.ly/2jZ41n3",
@@ -802,7 +802,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2292994/Seoul_dining_p79_article.jpg?1486036031"],
   "recent": true
  },
-      {
+  {
   "title": "Discover Taiwan",
   "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Feb/Mar 2017 issue, 'Discover' column",
   "link": "http://bit.ly/2k2DiZw",
@@ -813,7 +813,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2292979/Discover_Kaohsiung_FebMar_2017_p72_article.jpg?1486033816"],
   "recent": false
  },
-      {
+  {
   "title": "Kuala Lumpur: Redefining Contemporary Malaysian Art",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Feb 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2k2GF0V",
@@ -824,7 +824,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2287633/KL_art_p30_article.jpg?1485591051"],
   "recent": false
  },
-      {
+  {
   "title": "Toilet Training",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/01/24/2003663693",
@@ -835,7 +835,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/01/24/p13-170124-main.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Cultivating Taiwan's Artisanal Teas",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/01/18/2003663301",
@@ -846,7 +846,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/01/18/P13-170118-2.jpg", "http://www.taipeitimes.com/images/2017/01/18/P13-170118-1aa.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Move Over Beef Noodle Soup, Vegans Are Taking Taipei By Storm",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/01/14/2003663059",
@@ -857,7 +857,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/01/14/p13-170114-Bacon%20Cheese%20Burger.jpg", "http://www.taipeitimes.com/images/2017/01/14/p13-170114-Vietnamese%20Kelp%20Noodle%20Salad.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Never Again?",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2017/01/12/2003662936",
@@ -868,7 +868,7 @@
   "img": ["http://www.taipeitimes.com/images/2017/01/12/P13-170112-1a.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Artisanal Island",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Jan 2017 issue, 'Taiwan Travels' column",
   "link": "http://bit.ly/2iazrc2",
@@ -879,7 +879,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2240713/Artisinal_Island_p38_article.jpg?1483005322"],
   "recent": false
  },
-      {
+  {
   "title": "Chicago: Ancient Artifacts Meets Conceptual Art",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Jan 2017 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2iHWxIg",
@@ -890,7 +890,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2240706/Chicago_art_p30_article.jpg?1483004898"],
   "recent": false
  },
-      {
+  {
   "title": "Restaurant Review: Yucca Cafe",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/12/17/2003661365",
@@ -901,7 +901,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/12/17/p13-161217-jar.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Discover Taiwan",
   "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Dec 2016/Jan 2017 issue, 'Discover' column",
   "link": "http://bit.ly/2gH0ueO",
@@ -912,7 +912,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2203826/Discover_Taipei___Kaohsiung_p80-page-001_article.jpg?1480565063"],
   "recent": false
  },
-      {
+  {
   "title": "How to Cosplay in Taipei",
   "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Dec 2016/Jan 2017 issue, 'Your Hacks' column",
   "link": "http://bit.ly/2gEczyl",
@@ -923,7 +923,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2213994/cosplay_spread_article.jpg?1482570562"],
   "recent": false
  },
-      {
+  {
   "title": "The Gangnam Makeover",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Dec 2016 issue",
   "link": "http://bit.ly/2fS7rIX",
@@ -934,7 +934,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2203822/Gangnam_p32-page-001_article.jpg?1480564802"],
   "recent": false
  },
-      {
+  {
   "title": "Pearl of the Orient: Urban Art in Shanghai",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Dec 2016 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2i9zjHx",
@@ -945,7 +945,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2235482/Shanghai_p26_article.jpg?1482502175"],
   "recent": false
  },
-      {
+  {
   "title": "In Search of Authenticity",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/11/22/2003659748",
@@ -956,7 +956,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/11/22/p13-161122-ss.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Stories about Women, by Women",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/11/08/2003658804",
@@ -967,7 +967,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/11/08/p13-161108-li.jpg", "http://www.taipeitimes.com/images/2016/11/08/p13-161108-%20shawna.jpg"],
   "recent": false
  },
-     {
+  {
   "title": "Beer on Board",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/11/05/2003658596",
@@ -978,7 +978,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/11/05/p13-161105-beer2.jpg", "http://www.taipeitimes.com/images/2016/11/05/p13-161105-beer4.jpg"],
   "recent": false
  },
-     {
+  {
   "title": "Taiwan Talent to Debut at Singapore Writers Festival",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/11/03/2003658461",
@@ -989,7 +989,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/11/03/p13-161103-Hsiao%20Yeh.jpg", "http://www.taipeitimes.com/images/2016/11/03/p13-161103-Angelika%20Wang.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Taipei's Treasure Trove (translated into Thai)",
   "publisher": "Awesome - in-flight magazine of NokScoot, joint venture between Thailand's Nok Air and Singapore’s Scoot, Nov/Dec 2016 issue",
   "link": "http://bit.ly/2fAqN3v",
@@ -1000,7 +1000,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2176190/NokScoot_Taipei_Treasure_Trove-1-page-001_article.jpg?1478840703"],
   "recent": false
  },
-      {
+  {
   "title": "Exhibitions Uninhibited",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Nov 2016 issue",
   "link": "http://bit.ly/2f8g7c5",
@@ -1011,7 +1011,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2159894/Taipei_Art_p23-page-001_article.jpg?1477996725"],
   "recent": false
  },
-      {
+  {
   "title": "Seoul: Contemporary Art in the Ancient City",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Nov 2016 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2e805g8",
@@ -1022,7 +1022,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2159762/Seoul_art_article.jpg?1477982570"],
   "recent": false
  },
-     {
+  {
   "title": "Restaurant Review: Heritage Bakery & Cafe",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/22/2003657660",
@@ -1033,7 +1033,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/10/22/p13-161022-aa9.jpg", "http://www.taipeitimes.com/images/2016/10/22/p13-161022-13.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Art Exhibition Listings",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/21/2003657594",
@@ -1044,7 +1044,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/10/21/P14-161021-2.jpg"],
   "recent": false
  },
-     {
+  {
   "title": "Keeping It Reel",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/20/2003657526",
@@ -1055,7 +1055,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/10/20/P13-161020-a.jpg"],
   "recent": false
  },
-     {
+  {
   "title": "Book Review: Taiwan 101",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/15/2003657185",
@@ -1066,7 +1066,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/10/15/p14-161015-Taiwan%20101%20Vol%20I.jpg", "http://www.taipeitimes.com/images/2016/10/15/p14-161015-Taiwan%20101%20Vol%20II.jpg"],
   "recent": false
  },
-     {
+  {
   "title": "Five Taipei Hacks",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/12/2003656981",
@@ -1077,7 +1077,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/10/12/P13-161012-a.jpg", "http://www.taipeitimes.com/images/2016/10/12/P13-161012-b.jpg", "http://www.taipeitimes.com/images/2016/10/12/P13-161012-e.jpg"],
   "recent": false
  },
-     {
+  {
   "title": "There's No Place Like Home",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/10/04/2003656469",
@@ -1088,7 +1088,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/10/04/P13-161004-3.jpg", "http://www.taipeitimes.com/images/2016/10/04/P13-161004-2.jpg", "http://www.taipeitimes.com/images/2016/10/04/P13-161004-1.jpg"],
   "recent": false
  },
-     {
+  {
   "title": "The Next Wave",
   "publisher": "Scoot - in-flight magazine of Scoot, owned by Singapore Airlines, Oct/Nov 2016 issue",
   "link": "http://bit.ly/2dfgZz2",
@@ -1099,7 +1099,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2113241/Kenting_surf_p50-page-001_article.jpg?1475323782"],
   "recent": true
  },
-     {
+  {
   "title": "Pincer de résistance",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Oct 2016 issue",
   "link": "http://bit.ly/2dNy8P0",
@@ -1110,7 +1110,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2113240/Shanghai_hairy_crab_p18-page-001_article.jpg?1475323648"],
   "recent": false
  },
-     {
+  {
   "title": "Baroque to Pop: A Look at London Art",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Oct 2016 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2d31btJ",
@@ -1121,7 +1121,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2113207/London_art_article.jpg?1475303627"],
   "recent": false
  },
-    {
+  {
   "title": "A Taste of Kyoto",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/09/28/2003656082",
@@ -1132,7 +1132,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/09/28/P13-160928-6.jpg", "http://www.taipeitimes.com/images/2016/09/28/P13-160928-3.jpg", "http://www.taipeitimes.com/images/2016/09/28/P13-160928-5.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Losing Fear: Wakeboarders from Taipei are Challenging Traditional Standards of Beauty",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/09/13/2003655039",
@@ -1143,7 +1143,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/09/13/p13-160913-Amy%20Tsai-1.jpg", "http://www.taipeitimes.com/images/2016/09/13/p13-160913-Kimberly%20Chen-2.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Sous Vide Cocktails",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Sept 2016 issue",
   "link": "http://bit.ly/2bETChE",
@@ -1154,7 +1154,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2066598/Taipei_cocktails_Philippine_Airlines_Mabuhay_Sept_2016_article.jpg?1472743808"],
   "recent": false
  },
-    {
+  {
   "title": "Crystal Clear: Making Delicate Glassware in Taipei",
   "publisher": "Travel in Taiwan, Sept/Oct 2016 issue, 'Precious Gifts' column",
   "link": "http://bit.ly/2bEajJS",
@@ -1165,7 +1165,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2066346/glass_art_p52_article.jpg?1472727918"],
   "recent": false
  },
-    {
+  {
   "title": "History Meets Modernity in Singapore",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Sept 2016 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2bSjLEm",
@@ -1176,7 +1176,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2065809/Singapore_art_article.jpg?1472703288"],
   "recent": false
  },
-    {
+  {
   "title": "A Simpler Time When Watery Beer Would Do",
   "publisher": "Roads & Kingdoms",
   "link": "http://roadsandkingdoms.com/5-oclock-somewhere/simpler-time-watery-beer/",
@@ -1187,7 +1187,7 @@
   "img": ["http://i1.wp.com/roadsandkingdoms.com/uploads/2016/08/Shwedagon_Pagoda.jpg?w=1280&zoom=2&quality=75&strip=all"],
   "recent": false
  },
-    {
+  {
   "title": "3000 Glasses of Beer on the Wall",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/27/2003653943",
@@ -1198,7 +1198,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/08/27/p13-160827-4a.jpg", "http://www.taipeitimes.com/images/2016/08/27/p13-160827-2a.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Meet Mandalay's Jade Matriarchs",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/24/2003653742",
@@ -1209,7 +1209,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/08/24/p13-160824-La%20Min%20Ma.jpg", "http://www.taipeitimes.com/images/2016/08/24/p13-160824-Belgium%20Star1.jpg", "http://www.taipeitimes.com/images/2016/08/24/p13-160824-Daw%20Khin%20Lay%20Myint.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Cybergirls or Selfie Obsessed?",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/22/2003653604",
@@ -1220,7 +1220,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/08/22/p08-160822-two.jpg", "http://www.taipeitimes.com/images/2016/08/22/p08-160822-backpost.jpg", "http://www.taipeitimes.com/images/2016/08/22/p08-160822-belly.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Life, Liberty and the Digital Arms Race",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/16/2003653211",
@@ -1231,7 +1231,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/08/16/p13-160816-sketch.jpg", "http://www.taipeitimes.com/images/2016/08/16/p13-160816-wifi.jpg"],
   "recent": false
  },
-      {
+  {
   "title": "Restaurant Review: Mighty Quinn's Barbeque Taiwan",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/13/2003653011",
@@ -1242,7 +1242,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/08/13/p13-160813-main%20rest%201.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Duel to the Death...Sort Of",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/08/10/2003652809",
@@ -1253,7 +1253,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/08/10/p13-160810-photo1.jpg", "http://www.taipeitimes.com/images/2016/08/10/p13-160810-photo2.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Far Yeast Movement",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2016 issue",
   "link": "http://bit.ly/2aHoNIk",
@@ -1264,7 +1264,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2012413/Far_Yeast_Movement_p67-page-001_article.jpg?1470051478"],
   "recent": true
  },
-    {
+  {
   "title": "New York's Art Hotspots",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Aug 2016 issue, 'Art Capitals' column",
   "link": "http://bit.ly/2ahsdNY",
@@ -1275,7 +1275,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/2010725/NY_art_article.jpg?1469894783"],
   "recent": false
  },
-    {
+  {
   "title": "Book Review: Masked Dolls",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/07/23/2003651596",
@@ -1286,7 +1286,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/07/23/p14-160723-book.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Do That Sambar",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/07/16/2003651120",
@@ -1297,7 +1297,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/07/16/p13-160716-beer4.jpg", "http://www.taipeitimes.com/images/2016/07/16/p13-160716-beer6.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Hunting for Beaches in Hong Kong",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/07/13/2003650917",
@@ -1308,7 +1308,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/07/13/p13-160713-a2.jpg", "http://www.taipeitimes.com/images/2016/07/13/p13-160713-a5.jpg", "http://www.taipeitimes.com/images/2016/07/13/p13-160713-a33.jpg"],
   "recent": false
  },
-    {
+  {
   "title": "Morning Meals in Taipei",
   "publisher": "Travel in Taiwan, Jul/Aug 2016 issue, 'Popular Flavors' column",
   "link": "http://bit.ly/294QMve",
@@ -1319,7 +1319,7 @@
   "img": ["https://s3.amazonaws.com/external_clips/1954777/Travel_in_Taiwan_JulyAug2016_p42_article.jpg?1467299342"],
   "recent": false
  },
-    {
+  {
   "title": "On Politics and Cat Cafes",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/06/28/2003649627",
@@ -1330,7 +1330,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/06/28/P12-160628-005.jpg", "http://www.taipeitimes.com/images/2016/06/28/P12-160628-001.jpg", "http://www.taipeitimes.com/images/2016/06/28/P12-160628-002.jpg"],
   "recent": false
  },
-   {
+  {
   "title": "Shao Yen: London to Luodong",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/06/22/2003649177",
@@ -1341,7 +1341,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/06/22/P12-160622-01HH.jpg", "http://www.taipeitimes.com/images/2016/06/22/P12-160622-04.jpg", "http://www.taipeitimes.com/images/2016/06/22/P12-160622-05.jpg"],
   "recent": true
  },
-      {
+  {
   "title": "Trouble Brewing",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/06/18/2003648873",
@@ -1352,7 +1352,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/06/18/p12-160618-1.jpg"],
   "recent": false
  },
-   {
+  {
   "title": "Humble Homebrewer to Hardcore Hitter",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/05/21/2003646749",
@@ -1374,7 +1374,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/05/13/p10-160513-raid.jpg"],
   "recent": false
  },     
-   {
+  {
   "title": "5 Places to Peruse Art in Phnom Penh",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/05/11/2003645981",
@@ -1385,7 +1385,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/05/11/P12-160511-04.jpg"],
   "recent": false
  },
-   {
+  {
   "title": "The Pursuit of Liberty: A North Korean Defector Shares His Story",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/05/03/2003645370",
@@ -1396,7 +1396,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/05/03/P12-160503-02.jpg"],
   "recent": false
  },
-   {
+  {
   "title": "Brewed in Taiwan",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/04/23/2003644598",
@@ -1407,7 +1407,7 @@
   "img": ["http://www.taipeitimes.com/images/2016/04/23/p12-160423-a1.jpg", "http://www.taipeitimes.com/images/2016/04/23/p12-160423-a5.jpg"],
   "recent": false
  },
-   {
+  {
   "title": "Pill Popping Nation",
   "publisher": "Taipei Times",
   "link": "http://www.taipeitimes.com/News/feat/archives/2016/04/11/2003643672",
