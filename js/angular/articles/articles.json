@@ -1,5 +1,16 @@
 [ 
   {
+  "title": "A Neighborhood Awakens",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, April 2018 issue",
+  "link": "http://bit.ly/2GrA7Dh",
+  "published": "2018-04-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1793794/original/Dadaocheng_p62.jpg?1522629878"],
+  "recent": false
+ },
+  {
   "title": "Walking Tour: A Morning in George Town, Penang",
   "publisher": "Roads & Kingdoms",
   "link": "http://roadsandkingdoms.com/2018/walking-tour-george-town-penang/",
