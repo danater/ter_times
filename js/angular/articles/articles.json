@@ -1,5 +1,16 @@
 [ 
   {
+  "title": "A Cut Above",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, May 2018 issue",
+  "link": "http://bit.ly/2Fwt4YR",
+  "published": "2018-05-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1846610/original/Fashion_p112-1.jpg?1525192036", "https://s3.amazonaws.com/external_clips/attachments/1846607/original/Fashion_p113-1.jpg?1525192002"],
+  "recent": true
+ },
+  {
   "title": "Not Stirred, Nor Shaken",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, May 2018 issue",
   "link": "http://bit.ly/2I3Uevu",
@@ -591,7 +602,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2460986/Going_Global_Taipei_cover_page_article.jpg?1498880052"],
-  "recent": false
+  "recent": true
  },
   {
   "title": "Say Cheesus",
