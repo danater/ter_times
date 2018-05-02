@@ -20,7 +20,18 @@
   "category_style": "food-story",
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1846447/original/Cocktails_On_Tap_p40.jpg?1525188266"],
   "recent": false
- }, 
+ },
+  {
+  "title": "Three Outdoor Museums To Visit This Summer",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, May 2018 issue, 'Art Capitals' column",
+  "link": "http://bit.ly/2w7s4uz",
+  "published": "2018-05-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1849093/original/p24.jpg?1525270568"],
+  "recent": false
+ },
   {
   "title": "Tastes of the Earth",
   "publisher": "Travel in Taiwan, May/Jun 2018 issue, 'Island Feast' column",
