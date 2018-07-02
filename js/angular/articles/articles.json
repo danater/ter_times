@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "Tea Time: 4 Places to Drink Tea in Taipei",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, July 2018 issue, 'Taiwan Travels' column",
+  "link": "http://bit.ly/2NiOlKI",
+  "published": "2018-07-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/1960006/original/Tea_page_46.jpg?1530539312"],
+  "recent": false
+ },
+ {
   "title": "Born to Jet Set",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, June 2018 issue",
   "link": "http://bit.ly/2kGMQJb",
