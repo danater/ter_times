@@ -1,5 +1,38 @@
 [ 
  {
+  "title": "The Beating Art of the City",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2018 issue",
+  "link": "http://bit.ly/2v8oei6",
+  "published": "2018-08-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/2013971/original/Singapore_artists_p86-1.jpg?1533131840", "https://s3.amazonaws.com/external_clips/attachments/2013970/original/Singapore_artists_p87-1.jpg?1533131838"],
+  "recent": true
+ },
+ {
+  "title": "Going Global: Camiguin",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2018 cover story,",
+  "link": "http://bit.ly/2LZ8844",
+  "published": "2018-08-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/2013959/original/Camiguin_cover-1.jpg?1533130869"],
+  "recent": false
+ },
+ {
+  "title": "Away We Go",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Aug 2018 issue",
+  "link": "http://bit.ly/2LMy8QU",
+  "published": "2018-08-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/2013932/original/Away_luggage_p18-1.jpg?1533129988"],
+  "recent": false
+ },
+ {
   "title": "Tea Time: 4 Places to Drink Tea in Taipei",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, July 2018 issue, 'Taiwan Travels' column",
   "link": "http://bit.ly/2NiOlKI",
@@ -646,7 +679,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2460986/Going_Global_Taipei_cover_page_article.jpg?1498880052"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Say Cheesus",
