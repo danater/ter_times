@@ -954,7 +954,7 @@
   "category": "Entertainment",
   "category_style": "entertainment-story",
   "img": ["http://www.taipeitimes.com/images/2017/02/22/P13-170222-2.jpg"],
-  "recent": false
+  "recent": true
  },
   {
   "title": "Art Exhibition Listings",
