@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "All Figured Out",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Sept 2018 issue",
+  "link": "https://bit.ly/2orCMpa",
+  "published": "2018-09-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/2069401/original/Illustration_Arts_Festival-1.jpg?1535772912"],
+  "recent": false
+ },
+ {
   "title": "Sky Lanterns at the Mid-Autumn Festival",
   "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, Sept 2018 issue",
   "link": "https://bit.ly/2PV8303",
