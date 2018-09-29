@@ -1385,6 +1385,17 @@
   "img": ["https://s3.amazonaws.com/external_clips/2065809/Singapore_art_article.jpg?1472703288"],
   "recent": false
  },
+ {
+  "title": "Art Exhibition Listings",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/09/01/2003654273",
+  "published": "2016-09-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["http://www.taipeitimes.com/images/2016/09/01/p14-160901-cube.jpg"],
+  "recent": false
+ },
   {
   "title": "A Simpler Time When Watery Beer Would Do",
   "publisher": "Roads & Kingdoms",
