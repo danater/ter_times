@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "The Guild Masters",
+  "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Oct 2018 issue",
+  "link": "https://bit.ly/2OZ8cil",
+  "published": "2018-10-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/2126360/original/The_Guild_p64-1.jpg?1538404328"],
+  "recent": false
+ },
+ {
   "title": "All Figured Out",
   "publisher": "Mabuhay - in-flight magazine of Philippine Airlines, Sept 2018 issue",
   "link": "https://bit.ly/2orCMpa",
