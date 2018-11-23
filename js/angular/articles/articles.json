@@ -1242,6 +1242,17 @@
   "img": ["http://www.taipeitimes.com/images/2016/11/22/p13-161122-ss.jpg"],
   "recent": false
  },
+ {
+  "title": "Restaurant Review: Mount Kao Sandwich Shop",
+  "publisher": "Taipei Times",
+  "link": "http://www.taipeitimes.com/News/feat/archives/2016/11/19/2003659554",
+  "published": "2016-11-19",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["http://www.taipeitimes.com/images/2016/11/19/P13-161119-Mount%20Kao%20food%203.jpg", "http://www.taipeitimes.com/images/2016/11/19/P13-161119-shrimp%20grilled%20sandwich.jpg"],
+  "recent": false
+ },
   {
   "title": "Stories about Women, by Women",
   "publisher": "Taipei Times",
