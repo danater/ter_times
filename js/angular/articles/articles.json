@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "Singapore Swing",
+  "publisher": "DestinAsian, Dec 2018/Jan 2019 issue",
+  "link": "https://bit.ly/2Q3KV3w",
+  "published": "2018-12-01",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/2236261/original/p24.jpg?1543584657"],
+  "recent": false
+ },
+ {
   "title": "5 Ways to Spend the Holidays in Taipei",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, Dec 2018 issue, 'Taiwan Travels' column",
   "link": "https://bit.ly/2FRvkiA",
