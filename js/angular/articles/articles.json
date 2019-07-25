@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "Top Shelves: The World's Best Bookstores",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/ebookers/the-worlds-best-book-stores/",
+  "published": "2019-07-23",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/2696917/original/open-uri20190725-8-cy5lxn?1564034578"],
+  "recent": false
+ },
+ {
   "title": "The World's Most Beautiful Eco-Hotels",
   "publisher": "Ebookers",
   "link": "https://www.ebookers.com/travel-blog/ebookers/10-tips-for-beating-timezone-tiredness/",
