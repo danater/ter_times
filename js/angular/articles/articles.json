@@ -327,7 +327,7 @@
   "category": "Arts & Culture",
   "category_style": "arts-story",
   "img": ["https://s3.amazonaws.com/external_clips/attachments/2531711/original/p30-1.jpg?1556606047"],
-  "recent": false
+  "recent": true
  },
  {
   "title": "Taichung Tomatoes",
@@ -1702,7 +1702,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/2240713/Artisinal_Island_p38_article.jpg?1483005322"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Chicago: Ancient Artifacts Meets Conceptual Art",
