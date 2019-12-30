@@ -169,6 +169,22 @@ p.date-writer {
         text-align: left;
 }
 
+.louis {
+        color: #d17194;
+}
+
+.louis:hover {
+        color: #d17194;
+}
+
+.louis-story {
+        color: #d17194;
+        font-size: 14px;
+        font-weight: bold;
+        margin-bottom:5px;
+        text-align: left;
+}
+
 .arts {
         color: #999999;
 }
