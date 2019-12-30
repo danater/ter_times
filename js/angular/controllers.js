@@ -66,6 +66,11 @@ portfolioControllers.controller('HomeCtrl', ['$scope', '$http', '$interval',
           $scope.limit = 6;
           slice($scope.limit);
           break;
+        case 6:
+          $scope.articles = filterArticles('Louis Vuitton');
+          $scope.limit = 6;
+          slice($scope.limit);
+          break;
         default:
           $scope.articles = $scope.allArticles;
           $scope.limit = 6;
