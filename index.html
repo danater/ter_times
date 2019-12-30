@@ -100,7 +100,7 @@
         </div>
 
         <div ng-repeat="rows in chunkedData" class="row">
-          <div ng-repeat="article in rows" ng-class="{'twelve columns story': chunkedData.length === 1, chunkedData.length > 1 'six columns story'}">
+          <div ng-repeat="article in rows" ng-class="(chunkedData.length === 1) ? 'twelve columns story' : 'six columns story'">
             <a target="_blank" href="{{ article.link }}"><img ng-mouseenter="enterImage(article)" ng-mouseleave="leaveImage(article)" ng-src="{{ article.showImg }}"></a>
 
             <div class="row">
