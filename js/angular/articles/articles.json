@@ -1,5 +1,5 @@
 [ 
-{
+ {
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
@@ -21,6 +21,17 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/3009983/original/p28.jpg?1577666219"],
   "recent": false
  },
+ {
+  "title": "The Historic Houses of Northern Taiwan",
+  "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, Jan 2020 issue",
+  "link": "https://bit.ly/2QfDFQp",
+  "published": "2020-01-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3012775/original/p42-1.jpg?1577835104", "https://s3.amazonaws.com/external_clips/attachments/3012774/original/p43-1.jpg?1577835089"],
+  "recent": false
+ }, 
  {
   "title": "10 ways to ensure you have your most memorable trip yet in 2020",
   "publisher": "Ebookers",
