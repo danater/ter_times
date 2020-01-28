@@ -3,14 +3,25 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-01-23",
+  "published": "2020-01-28",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
-  {
+ {
+  "title": "10 Super Cool Cinemas You Need to Visit",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/city/10-super-cool-cinemas-you-need-to-visit/",
+  "published": "2019-01-27",
+  "author": "Dana Ter",
+  "category": "Entertainment",
+  "category_style": "entertainment-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3067541/original/open-uri20200128-22740-10wo775?1580190522"],
+  "recent": false
+ }, 
+ {
   "title": "Destination Inspiration: Galway",
   "publisher": "Ebookers",
   "link": "https://www.ebookers.com/travel-blog/ebookers/destination-inspiration-galway/",
