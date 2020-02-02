@@ -3,13 +3,24 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-01-28",
+  "published": "2020-02-02",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+ {
+  "title": "Kinmen's Ancient Villages and Nature Trails",
+  "publisher": "Les Iles - in-flight magazine of UNI Air, owned by EVA Air, Feb 2020 issue",
+  "link": "https://bit.ly/2u3GpIx",
+  "published": "2020-02-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3078012/original/p32.jpg?1580657961", "https://s3.amazonaws.com/external_clips/attachments/3078011/original/p33.jpg?1580657944"],
+  "recent": false
+ }, 
  {
   "title": "10 Super Cool Cinemas You Need to Visit",
   "publisher": "Ebookers",
