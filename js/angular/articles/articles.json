@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-02-02",
+  "published": "2020-02-07",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "Destination Inspiration: Bilbao",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/culture/destination-inspiration-bilbao-spain/",
+  "published": "2019-02-05",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3087414/original/open-uri20200207-30335-411jf7?1581048899"],
   "recent": false
  },
  {
