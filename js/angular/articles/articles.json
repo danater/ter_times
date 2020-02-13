@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-02-07",
+  "published": "2020-02-13",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+  {
+  "title": "The 10 Best Places to Travel Alone in 2020",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/city/the-10-best-places-to-travel-solo-in-2020/",
+  "published": "2019-02-11",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3098198/original/open-uri20200213-12225-1dkzo2y?1581561432"],
   "recent": false
  },
  {
