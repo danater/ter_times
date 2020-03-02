@@ -10,7 +10,18 @@
   "img": ["img/louis.jpg"],
   "recent": false
  },
-  {
+ {
+  "title": "Upcycling Old Cassette Tapes",
+  "publisher": "EnVoyage - in-flight magazine of EVA Air, March 2020 cover story",
+  "link": "https://bit.ly/2TvhmGF",
+  "published": "2020-03-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3130807/original/1._cover.jpg?1583121078"],
+  "recent": true
+ }, 
+ {
   "title": "7 Epic Rail Adventures You Need to Experience in Your Lifetime",
   "publisher": "Ebookers",
   "link": "https://www.ebookers.com/travel-blog/ebookers/7-epic-rail-adventures-you-need-to-experience-in-your-lifetime/",
