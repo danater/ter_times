@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-03-01",
+  "published": "2020-04-01",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "Neihu's New Appeal",
+  "publisher": "DestinAsian, Apr/Jul 2020 issue",
+  "link": "https://bit.ly/2JrCXeE",
+  "published": "2020-04-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3186562/original/p18-1.jpg?1585713853", "https://s3.amazonaws.com/external_clips/attachments/3186560/original/p20-1.jpg?1585713835"],
   "recent": false
  },
  {
