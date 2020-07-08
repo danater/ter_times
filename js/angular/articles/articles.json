@@ -3,13 +3,24 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-06-01",
+  "published": "2020-07-15",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+  {
+  "title": "Coastal Walks: The UK's Most Beautiful Routes",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/adventure/coastal-walks-the-uks-most-beautiful-routes/",
+  "published": "2020-07-03",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3381051/original/Old_Harry_Rocks.jpg?1594178895"],
+  "recent": false
+ }, 
  {
   "title": "10 of the Best Live Music Streams and Virtual Concerts to Watch Online",
   "publisher": "Ebookers",
