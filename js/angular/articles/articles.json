@@ -3,14 +3,25 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-07-15",
+  "published": "2020-08-01",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
-  {
+ {
+  "title": "10 Secluded UK Beaches We Think You Need to Know Aoubt",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/ebookers/10-secluded-uk-beaches-we-think-you-need-to-know-about/",
+  "published": "2020-07-20",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3409614/original/the-rugged-coastline-at-hartland-quay-in-devon-england-picture.jpg?1595570825"],
+  "recent": false
+ }, 
+ {
   "title": "Coastal Walks: The UK's Most Beautiful Routes",
   "publisher": "Ebookers",
   "link": "https://www.ebookers.com/travel-blog/adventure/coastal-walks-the-uks-most-beautiful-routes/",
