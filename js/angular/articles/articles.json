@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-08-08",
+  "published": "2020-08-15",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "From Bali to Seoul, Sydney and Beyond, Weekend Vacation Vibes Are Still Going Strong",
+  "publisher": "Marriott Bonvoy Traveler",
+  "link": "https://traveler.marriott.com/weekend-getaways/summer-weekend-getaways-asia-australia/",
+  "published": "2020-08-11",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3442268/original/Bali_rice_terrace.jpg?1597217109"],
   "recent": false
  },
  {
