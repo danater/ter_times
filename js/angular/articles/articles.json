@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-08-15",
+  "published": "2020-08-31",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "Taste Britain: 10 Amazing Restaurants with Rooms",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/ebookers/taste-britain-10-amazing-restaurants-with-rooms/",
+  "published": "2020-08-18",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3454261/original/open-uri20200819-19-ku18qp?1597811122"],
   "recent": false
  },
  {
