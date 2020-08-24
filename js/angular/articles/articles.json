@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-08-31",
+  "published": "2020-09-01",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "Life's a Beach",
+  "publisher": "Travel in Taiwan, Sept/Oct 2020 beach issue",
+  "link": "https://bit.ly/31pG80l",
+  "published": "2020-09-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3463049/original/p34.jpg?1598250461"],
   "recent": false
  },
  {
