@@ -3,13 +3,24 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-09-01",
+  "published": "2020-09-15",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+ {
+  "title": "10 of the Best Nature Reserves for Seeing Wildlife in the UK",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/adventure/10-of-the-best-nature-reserves-for-seeing-wildlife-in-the-uk/",
+  "published": "2020-09-10",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3494049/original/Blacka_Moor.jpg?1599790997"],
+  "recent": false
+ }, 
  {
   "title": "Life's a Beach",
   "publisher": "Travel in Taiwan, Sept/Oct 2020 beach issue",
