@@ -3,13 +3,24 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-10-31",
+  "published": "2020-11-10",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+ {
+  "title": "8 Cozy Places to Stay with a Log Fire This Winter",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/ebookers/8-cosy-places-to-stay-with-a-log-fire-this-winter/",
+  "published": "2020-11-03",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3586744/original/Artist_Residence_Oxfordshire.jpg?1604506864"],
+  "recent": false
+ }, 
  {
   "title": "Jaw-Dropping Lights, Fireworks and More on a Holiday Staycation in Asia and Australia",
   "publisher": "Marriott Bonvoy Traveler",
