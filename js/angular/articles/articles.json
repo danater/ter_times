@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-11-30",
+  "published": "2020-12-01",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "Christmas Food Traditions from Around the World",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/culture/christmas-food-traditions-from-around-the-world/",
+  "published": "2020-11-30",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["hhttps://s3.amazonaws.com/external_clips/attachments/3632352/original/Tamales-_E2_80_93-Costa-Rica.jpg?1606803755"],
   "recent": false
  },
  {
