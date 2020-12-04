@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2020-12-01",
+  "published": "2020-12-05",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+  {
+  "title": "Festive Quarantine Christmas Ideas",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/ebookers/festive-quarantine-christmas-ideas/",
+  "published": "2020-12-03",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3638310/original/xmas_deco.jpg?1607052838"],
   "recent": false
  },
  {
