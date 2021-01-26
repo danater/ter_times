@@ -3,13 +3,24 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2021-01-15",
+  "published": "2021-02-01",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+ {
+  "title": "Seaside Village, Ancient Ruins and Other Small-Town Charms in Asia and Australia",
+  "publisher": "Marriott Bonvoy Traveler",
+  "link": "https://traveler.marriott.com/tips-and-trends/small-towns-australia-asia/",
+  "published": "2021-01-26",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3727195/original/Mornington_Peninsula.jpg?1611672116"],
+  "recent": true
+ }, 
  {
   "title": "Gallery Hopping, Yachting and More in Asia and Australia’s Luxury Destinations",
   "publisher": "Marriott Bonvoy Traveler",
@@ -1328,7 +1339,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1683636/original/GI_159017560_HwacheonIceFest_WomanFish.jpg?1517386424"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "The World's Most Romantic Travel Experiences",
