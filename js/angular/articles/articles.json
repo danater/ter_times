@@ -3,13 +3,24 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2021-02-01",
+  "published": "2021-02-010",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+ {
+  "title": "11 Aamazing Houses to Book Now for Summer",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/ebookers/11-amazing-houses-to-book-now-for-summer/",
+  "published": "2021-02-01",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3739788/original/open-uri20210202-15-pzvyyv?1612234785"],
+  "recent": false
+ }, 
  {
   "title": "Seaside Villages, Ancient Ruins and Other Small-Town Charms in Asia and Australia",
   "publisher": "Marriott Bonvoy Traveler",
