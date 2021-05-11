@@ -3,13 +3,24 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2021-04-15",
+  "published": "2021-05-15",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+ {
+  "title": "Plan an Unforgettable, Culture- and Food-Filled Weekend in Singapore",
+  "publisher": "Marriott Bonvoy Traveler",
+  "link": "https://traveler.marriott.com/weekend-getaways/singapore-weekend-guide/",
+  "published": "2021-05-10",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/3923244/original/Emerald_Hill.jfif?1620697315"],
+  "recent": true
+ }, 
  {
   "title": "10 Family-Friendly Spa Hotels in the UK",
   "publisher": "Ebookers",
@@ -3462,7 +3473,7 @@
   "category": "Arts & Culture",
   "category_style": "arts-story",
   "img": ["http://www.taipeitimes.com/images/2014/08/07/p12-140807-dress5.jpg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "I’m a Traveler and a Writer, But I Have a Serious Problem With Travel Writing",
