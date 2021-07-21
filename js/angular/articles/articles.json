@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2021-06-01",
+  "published": "2021-07-22",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "Ibiza's Best Beach Hotels",
+  "publisher": "Ebookers",
+  "link": "https://www.ebookers.com/travel-blog/hotels/ibizas-best-beach-hotels/",
+  "published": "2021-07-19",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4050536/original/open-uri20210721-11-qiqr2s?1626832471"],
   "recent": false
  },
  {
