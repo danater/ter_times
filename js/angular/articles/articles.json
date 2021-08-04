@@ -3,11 +3,22 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2021-07-22",
+  "published": "2021-08-05",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
+  "recent": false
+ },
+ {
+  "title": "Unpack the Ultimate Long Weekend Guide to Seoul",
+  "publisher": "Marriott Bonvoy Traveler",
+  "link": "https://traveler.marriott.com/weekend-getaways/seoul-weekend-guide/",
+  "published": "2021-08-03",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4076187/original/Naengmyeon_SpicyNoodles_RF.jpg?1628043055"],
   "recent": false
  },
  {
