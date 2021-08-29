@@ -3,13 +3,23 @@
   "title": "Louis Vuitton City Guides - Taipei",
   "publisher": "BETC Paris",
   "link": "https://bit.ly/34aWWGz",
-  "published": "2021-08-05",
+  "published": "2021-09-01",
   "author": "Dana Ter",
   "category": "Louis Vuitton",
   "category_style": "louis-story",
   "img": ["img/louis.jpg"],
   "recent": false
  },
+ {
+  "title": "Guidebook for Taiwan Tourism Bureau 2021",
+  "publisher": "Taiwan Tourism Bureau",
+  "link": "https://bit.ly/3yp0jZp",
+  "published": "2021-08-30",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4127503/original/Taiwan_map.jpg?1630226544"],
+  "recent": false
  {
   "title": "Unpack the Ultimate Long Weekend Guide to Seoul",
   "publisher": "Marriott Bonvoy Traveler",
