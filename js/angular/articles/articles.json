@@ -14,11 +14,22 @@
   "title": "Guidebook for Taiwan Tourism Bureau 2021",
   "publisher": "Taiwan Tourism Bureau",
   "link": "https://bit.ly/3yp0jZp",
-  "published": "2021-08-30",
+  "published": "2021-09-01",
   "author": "Dana Ter",
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/attachments/4127503/original/Taiwan_map.jpg?1630226544"],
+  "recent": false
+ },
+ {
+  "title": "Learn Dumpling Making, Floral Arranging and More in 6 Unique Classes in Asia and Australia",
+  "publisher": "Marriott Bonvoy Traveler",
+  "link": "https://traveler.marriott.com/tips-and-trends/travel-classes-asia-pacific/",
+  "published": "2021-09-01",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4137598/original/Makgeolli-GI-659066511.jpg?1630579429"],
   "recent": false
  },
  {
