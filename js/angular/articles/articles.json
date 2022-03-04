@@ -43,7 +43,18 @@
   "img": ["https://s3.amazonaws.com/external_clips/attachments/4479917/original/Istanbul-Museum-of-Modern-Art.jpg?1645348418"],
   "recent": false
  },
-  {
+ {
+  "title": "Meet Me in Venice?",
+  "publisher": "Marriott Bonvoy Traveler",
+  "link": "https://traveler.marriott.com/romantic-getaways/vacation-romance-part-time-boyfriend/",
+  "published": "2022-02-09",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4506532/original/Vacation_Boyfriend_Slovenia.jpg?1646401294"],
+  "recent": false
+ }, 
+ {
   "title": "Miaoli's Springtime Snow",
   "publisher": "EnVoyage - in-flight magazine of EVA Air, 2022 Q1 issue, 'Taiwan Travels' column",
   "link": "https://bit.ly/3B9zoUk",
