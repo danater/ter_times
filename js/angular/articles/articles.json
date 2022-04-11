@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "Taste of Spain",
+  "publisher": "Naya Traveler",
+  "link": "https://www.nayatraveler.com/journal-archive/taste-of-spain",
+  "published": "2022-04-08",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4588343/original/open-uri20220411-7-1o8tt7f?1649713236"],
+  "recent": false
+ },
+ {
   "title": "Portugal: Atlantic Coast Getaway",
   "publisher": "Naya Traveler",
   "link": "https://www.nayatraveler.com/journal-archive/portugal-atlantic-coast",
