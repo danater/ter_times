@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "Antarctica, A Voyage of a Lifetime",
+  "publisher": "Naya Traveler",
+  "link": "https://www.nayatraveler.com/journal-archive/best-time-to-travel-to-antarctica",
+  "published": "2022-04-28",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4628552/original/Antarctica.jpg?1651330056"],
+  "recent": false
+ },
+ {
   "title": "Walk in the Clouds of Peru",
   "publisher": "Naya Traveler",
   "link": "https://www.nayatraveler.com/journal-archive/walk-in-the-clouds-peru",
