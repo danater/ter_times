@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "The Naya Recipe Book: Refreshing Summer Drinks",
+  "publisher": "Naya Traveler",
+  "link": "https://www.nayatraveler.com/journal-archive/refreshing-summer-drinks",
+  "published": "2022-07-28",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/4825588/original/summer_drinks.jpg?1659077630"],
+  "recent": false
+ },
+ {
   "title": "South America, a Continent of Stars",
   "publisher": "Naya Traveler",
   "link": "https://www.nayatraveler.com/journal-archive/best-stargazing-locations-in-south-america",
