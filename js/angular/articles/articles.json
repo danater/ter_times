@@ -74,7 +74,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/attachments/5039151/original/Fall_Solo_Travel_in_S._America_1.jpg?1666891901"],
-  "recent": false
+  "recent": true
  },
  {
   "title": "From the Andaman Coast to Guam, Visit These Beaches in Asia and the Pacific in the Off-Season",
@@ -2538,7 +2538,7 @@
   "category": "Entertainment",
   "category_style": "entertainment-story",
   "img": ["http://www.taipeitimes.com/images/2017/02/22/P13-170222-2.jpg"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Art Exhibition Listings",
