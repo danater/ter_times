@@ -1,5 +1,38 @@
 [ 
  {
+  "title": "Merdekarya",
+  "publisher": "DestinAsian Kuala Lumpur guide",
+  "link": "https://destinasian.com/merdekarya",
+  "published": "2023-08-29",
+  "author": "Dana Ter",
+  "category": "Entertainment",
+  "category_style": "entertainment-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5814074/original/open-uri20230829-11-1ftagqn?1693314366"],
+  "recent": false
+ },
+ {
+  "title": "Bar Triptyk",
+  "publisher": "DestinAsian Kuala Lumpur guide",
+  "link": "https://destinasian.com/bar-triptyk",
+  "published": "2023-08-29",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5814071/original/open-uri20230829-12-ab3w27?1693314188"],
+  "recent": false
+ },
+ {
+  "title": "De.Wan 1958",
+  "publisher": "DestinAsian Kuala Lumpur guide",
+  "link": "https://destinasian.com/de-wan-1958-by-chef-wan",
+  "published": "2023-08-29",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5814068/original/open-uri20230829-9-1qv719m?1693313887"],
+  "recent": false
+ },
+ {
   "title": "These 8 Destinations in Asia and Australia Are a Bleisure Traveler’s Dream",
   "publisher": "Marriott Bonvoy Traveler",
   "link": "https://traveler.marriott.com/tips-and-trends/asia-pacific-bleisure-traveler/",
