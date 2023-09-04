@@ -1,5 +1,27 @@
 [ 
  {
+  "title": "RexKL",
+  "publisher": "DestinAsian Kuala Lumpur guide",
+  "link": "https://destinasian.com/rexkl",
+  "published": "2023-09-04",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5826842/original/open-uri20230904-7-1z05ckv?1693800329"],
+  "recent": false
+ },
+ {
+  "title": "The Godown",
+  "publisher": "DestinAsian Kuala Lumpur guide",
+  "link": "https://destinasian.com/the-godown",
+  "published": "2023-09-04",
+  "author": "Dana Ter",
+  "category": "Arts & Culture",
+  "category_style": "arts-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5826837/original/open-uri20230904-13-60hm1u?1693800155"],
+  "recent": false
+ },
+ {
   "title": "Kayra",
   "publisher": "DestinAsian Kuala Lumpur guide",
   "link": "https://destinasian.com/kayra",
