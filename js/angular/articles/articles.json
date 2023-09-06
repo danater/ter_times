@@ -1,5 +1,16 @@
 [ 
  {
+  "title": "Adu Sugar Restaurant",
+  "publisher": "DestinAsian Kuala Lumpur guide",
+  "link": "https://destinasian.com/adu-sugar-restaurant",
+  "published": "2023-09-06",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5832888/original/open-uri20230906-11-ecztfr?1693994972"],
+  "recent": false
+ },
+ {
   "title": "RexKL",
   "publisher": "DestinAsian Kuala Lumpur guide",
   "link": "https://destinasian.com/rexkl",
