@@ -1,5 +1,27 @@
 [ 
  {
+  "title": "Raffles Singapore",
+  "publisher": "DestinAsian Singapore guide",
+  "link": "https://destinasian.com/raffles-singapore",
+  "published": "2023-09-27",
+  "author": "Dana Ter",
+  "category": "Travel",
+  "category_style": "travel-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5895993/original/open-uri20230927-9-1pc84xm?1695794809"],
+  "recent": falese
+ },
+ {
+  "title": "La Dame de Pic",
+  "publisher": "DestinAsian Singapore guide",
+  "link": "https://destinasian.com/la-dame-de-pic-sg",
+  "published": "2023-09-27",
+  "author": "Dana Ter",
+  "category": "Food & Drink",
+  "category_style": "food-story",
+  "img": ["https://s3.amazonaws.com/external_clips/attachments/5895986/original/open-uri20230927-9-110yjxk?1695794616"],
+  "recent": false
+ },
+ {
   "title": "Shangri-La Rasa Sayang, Penang",
   "publisher": "DestinAsian Penang guide",
   "link": "https://destinasian.com/shangri-la-rasa-sayang-penang",
