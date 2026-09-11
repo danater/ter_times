@@ -327,7 +327,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/attachments/5039151/original/Fall_Solo_Travel_in_S._America_1.jpg?1666891901"],
-  "recent": true
+  "recent": false
  },
  {
   "title": "From the Andaman Coast to Guam, Visit These Beaches in Asia and the Pacific in the Off-Season",
@@ -1999,7 +1999,7 @@
   "category": "Travel",
   "category_style": "travel-story",
   "img": ["https://s3.amazonaws.com/external_clips/attachments/1743678/original/p46.jpg?1520222243", "https://s3.amazonaws.com/external_clips/attachments/1743677/original/p47.jpg?1520222149"],
-  "recent": true
+  "recent": false
  },
   {
   "title": "Street Smarts",
